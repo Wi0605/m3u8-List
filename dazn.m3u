@@ -48,7 +48,7 @@ http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9757
 http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/94464
 #EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="Dazn La Liga 1" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EVENTOS PPV MUNDIAL",Dazn La Liga 1
 http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/103708
-#EXTINF:-1 tvg-name="DAZN F1 HD" group-title="DAZN",DAZN F1 HD
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-logo="https://logos.xbots.com.mx/307521.png" group-title="DAZN",DAZN F1 HD
 http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/94466
 #EXTINF:-1 tvg-name="Caracol TV HD" group-title="TV Colombiana HD",Caracol TV HD
 http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/8484
