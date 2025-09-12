@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="A&E.co" tvg-name="A&E" group-title="Películas HD",CINE - A&E HD
 http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9614
 #EXTINF:-1 tvg-id="A&E.co" tvg-name="A&E" group-title="Películas HD",CINE - A&E HD 2
@@ -17,12 +16,6 @@ http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9666
 http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9668
 #EXTINF:-1 tvg-id="HBO.Family.co" tvg-name="HBO Family" group-title="Películas HD",CINE - HBO Family HD
 http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9676
-#EXTINF:-1 tvg-id="HBO.Family.co" tvg-name="HBO Family" group-title="Películas HD",CINE - HBO Family HD 2
-http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9678
-#EXTINF:-1 tvg-id="HBO.Family.co" tvg-name="HBO Family" group-title="Películas HD",CINE - HBO Family HD 3
-http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9679
-#EXTINF:-1 tvg-id="HBO.Family.co" tvg-name="HBO Family" group-title="Películas HD",CINE - HBO Family HD 4
-http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9681
 #EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO Plus" group-title="Películas HD",CINE - HBO Plus HD
 http://tv.masterplaytv.club:8080/Sheyla-Castro45/004f665312bc/9685
 #EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO Plus" group-title="Películas HD",CINE - HBO Plus HD 2
