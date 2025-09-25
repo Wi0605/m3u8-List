@@ -238,8 +238,6 @@ http://181.78.106.127:9000/play/ca052/index.m3u8
 http://181.78.106.127:9000/play/ca054/index.m3u8
 #EXTINF:-1,Canal 5 ar
 http://181.78.106.127:9000/play/ca005/index.m3u8
-
-
 #EXTINF:-1,ESPN MX
 http://38.180.133.31:8000/play/a0ox/index.m3u8
 #EXTINF:-1,ESPN MX
@@ -286,7 +284,6 @@ http://38.41.8.1:8000/play/a082
 http://200.125.170.123:8000/play/a05y
 #EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 7 mx
 http://181.205.130.194:4000/play/a07s
-
 #EXTINF:-1, ESPN 2
 http://181.78.106.127:9000/play/ca034/index.m3u8
 #EXTINF:-1, ESPN 2
@@ -343,7 +340,6 @@ http://181.78.106.127:9000/play/ca028/index.m3u8
 http://181.78.106.127:9000/play/ca029/index.m3u8
 #EXTINF:-1,SKY SPORTS
 http://181.78.106.127:9000/play/ca030/index.m3u8
-
 #EXTINF:-1 tvg-chno="0" id="CANAL 9 IXCHIGUÁN | GT" tvg-logo="https://static.wixstatic.com/media/526a76_1ee76d90c9bd4423ad363454ea60cebf~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 IXCHIGUÁN | GT
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="CINE Y SERIES", IU TV HD
@@ -364,7 +360,6 @@ https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/31/dominican-republic-1460624_960_720.jpg" group-title="R.DOMINICANA",R.DOMINICANA
 #EXTINF:-1, XXXXXXX
-
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
 http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Asian
@@ -453,10 +448,8 @@ http://live.redtraffic.xyz/teen.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Woman
 http://live.redtraffic.net/woman.m3u8
-
 #EXTINF:-1,Sports
 https://raw.githubusercontent.com/LeoDe1vid/FutLibre_IPTV/main/Sports_channels.m3u8
-
 #EXTINF:-1,otra url
 #EXTINF:-1 ,ESPN 2 HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
@@ -514,7 +507,6 @@ http://181.205.130.194:4000/play/a07r
 http://181.205.130.194:4000/play/a08f
 #EXTINF:-1,SEÑAL COLOMBIA
 http://181.205.130.194:4000/play/a08k
-
 #EXTINF:-1,#EXTINF:-1,
 #EXTINF:-1,ESPN 2 HD
 http://45.184.87.142:8000/play/a04a
@@ -686,7 +678,6 @@ http://104.238.205.28:8989/278385_.m3u8
 http://104.238.205.28:8989/278330_.m3u8
 #EXTINF:-1,CANAL 5
 http://104.238.205.28:8989/278329_.m3u8
-
 #EXTINF:-1,#EXTINF:-1,
 #EXTINF:-1,A&E HD
 http://181.78.85.53:9002/play/a047/index.m3u8
@@ -778,7 +769,6 @@ http://181.78.14.26:8000/play/a04h
 http://181.78.14.26:8000/play/a06c
 #EXTINF:-1,NATIONAL GEAGRAPHIF
 http://181.78.14.26:8000/play/a04p
-
 #EXTINF:-1,#EXTINF:-1,
 #EXTINF:-1,HBO
 http://38.211.242.128:8001/play/a09a/index.m3u8
@@ -804,7 +794,6 @@ http://38.211.242.128:8001/play/a08n/index.m3u8
 http://38.211.242.128:8001/play/a08y/index.m3u8
 #EXTINF:-1,LAS ESTRELLAS
 http://38.211.242.128:8001/play/a07g/index.m3u8
-
 #EXTINF:-1,#EXTINF:-1,
 #EXTINF:-1, ESPN premium
 http://181.188.216.5:18000/play/a0fe/index.m3u8
