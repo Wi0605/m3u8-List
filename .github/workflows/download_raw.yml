@@ -1,0 +1,26 @@
+name: Descargar The Beatles
+
+on:
+  schedule:
+    # Esto ejecutará el flujo de trabajo cada 24 horas.
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  download-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Descargar el archivo
+        run: |
+          curl -o 'the-beatles.txt' 'https://gist.githubusercontent.com/GUAPACHA/ff9cf6435b379c4c550913fdadc8edc4/raw/e2b7c6671441d109682af6e5b9a7e4cf150c873c/the%2520beatles'
+
+      - name: Commitear y subir los cambios
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "feat: Actualizar archivo de The Beatles" || echo "No hay cambios para commitear"
+          git push
