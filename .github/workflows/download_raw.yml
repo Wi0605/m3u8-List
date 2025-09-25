@@ -15,7 +15,7 @@ jobs:
 
       - name: Descargar el archivo
         run: |
-          curl -o 'the-beatles.txt' 'https://gist.githubusercontent.com/GUAPACHA/ff9cf6435b379c4c550913fdadc8edc4/raw/e2b7c6671441d109682af6e5b9a7e4cf150c873c/the%2520beatles'
+          curl -o 'list.m3u' 'https://gist.githubusercontent.com/GUAPACHA/ff9cf6435b379c4c550913fdadc8edc4/raw/e2b7c6671441d109682af6e5b9a7e4cf150c873c/the%2520beatles'
 
       - name: Commitear y subir los cambios
         run: |
