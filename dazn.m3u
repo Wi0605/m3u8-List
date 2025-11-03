@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC- DISCOVERY EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="• MUNDO Y CULTURA",MYC- DISCOVERY EN ESPAÑOL
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/307665
+http://181.188.216.5:18000/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN.F1.es" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="ESPAÑA DEPORTES",DAZN F1
 http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/125363
 #EXTINF:-1 group-title="ESPN 2" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 2
@@ -20,13 +20,13 @@ http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/54172
 #EXTINF:-1 tvg-id="historychannel.mx" tvg-name="HISTORY SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sA5mYs1JHLbc3-pA1kNcCehHY4Yl8UA7J-oXdFGr7g&s=10" group-title=" ✅ CULTURA  ✅",HISTORY SD
 http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53482
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❎ CINE PREMIUM Exclusivo ❎",CINE | HBO FAMILY  SD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53
+http://181.205.130.194:4000/play/a0dr
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="CINE | HBO 2  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="❎ CINE PREMIUM Exclusivo ❎",CINE | HBO 2  SD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/44
+http://45.184.87.142:8000/play/a05a
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE  | HBO  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="❎ CINE PREMIUM Exclusivo ❎",CINE  | HBO  SD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/1240
+http://45.184.87.142:8000/play/a04k
 #EXTINF:-1 tvg-id="" tvg-name="COL - CARACOL HD " tvg-logo="http://descargas.podzone.net/logos/-caracol.png" group-title="COLOMBIA",COL - CARACOL HD 
-http://181.78.85.53:9002/play/a02h/index.m3u8
+http://181.78.14.26:8000/play/a00d
 #EXTINF:-1 tvg-id="CNN EN ESPAÑOL" tvg-name="CNN en Español" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cnn_espanol.png" group-title="VARIEDADES",CNN en Español
 http://tvpromas.com:2082/stk88para84539hdto76349shfg5348/745gd74m549dsh648/2435
 #EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Gourmet2012.png/revision/latest/scale-to-width-down/290?cb=20250302135041&path-prefix=es" group-title=" ✅ CULTURA  ✅",EL GOURMET
@@ -38,4 +38,4 @@ http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53939
 #EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png" group-title="CINE",Star Channel HD
 http://matrivagoweb.xyz:8080/DGDJCC470/123456/83449
 #EXTINF:-1 tvg-id="NAT GEO" tvg-name="National Geographic HD" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png" group-title="CULTURA",National Geographic HD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/307683
+http://45.184.87.142:8000/play/a03z
