@@ -1,41 +1,609 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC- DISCOVERY EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="• MUNDO Y CULTURA",MYC- DISCOVERY EN ESPAÑOL
-http://181.188.216.5:18000/play/a0dr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN.F1.es" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="ESPAÑA DEPORTES",DAZN F1
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/125363
-#EXTINF:-1 group-title="ESPN 2" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 2
-http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MYC - DISCOVERY ID FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY ID FHD
-http://tvpromas.com:2082/stk88para84539hdto76349shfg5348/745gd74m549dsh648/2458
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="DISCOVERY HOME & HEALTH FHD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53459
-#EXTINF:-1 tvg-id="discoveryhdtheater.ar" tvg-name="DISCOVERY Theater HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYYxVUjsyNJVICTbPvJ9vPqrV_WU_Dx53FDIoz3G8Pg&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY Theater HD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53465
-#EXTINF:-1 tvg-id="discoveryworldhd.ar" tvg-name="DISCOVERY World SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLc54PfIICksjBN_lFu0gGQAgRfFVqDJxZ5Pg7BVG1YA&s=10" group-title=" ✅ CULTURA  ✅",DISCOVERY World SD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53469
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="TLC HD" tvg-logo="http://mundo2.vip:80/images/2f687de7e20c64a66faa4f4de6677b85.jpg" group-title=" ✅ CULTURA  ✅",TLC HD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/126558
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="ANIMAL Planet HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpiwMvAu1bIRrZ-0sQw0shYJrp_Y4Klp6yFbE0NgU-g&s=10" group-title=" ✅ CULTURA  ✅",ANIMAL Planet HD.
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/54172
-#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="HISTORY SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0sA5mYs1JHLbc3-pA1kNcCehHY4Yl8UA7J-oXdFGr7g&s=10" group-title=" ✅ CULTURA  ✅",HISTORY SD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53482
-#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❎ CINE PREMIUM Exclusivo ❎",CINE | HBO FAMILY  SD
-http://181.205.130.194:4000/play/a0dr
-#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="CINE | HBO 2  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="❎ CINE PREMIUM Exclusivo ❎",CINE | HBO 2  SD
-http://45.184.87.142:8000/play/a05a
-#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE  | HBO  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU" group-title="❎ CINE PREMIUM Exclusivo ❎",CINE  | HBO  SD
-http://45.184.87.142:8000/play/a04k
-#EXTINF:-1 tvg-id="" tvg-name="COL - CARACOL HD " tvg-logo="http://descargas.podzone.net/logos/-caracol.png" group-title="COLOMBIA",COL - CARACOL HD 
-http://181.78.14.26:8000/play/a00d
-#EXTINF:-1 tvg-id="CNN EN ESPAÑOL" tvg-name="CNN en Español" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cnn_espanol.png" group-title="VARIEDADES",CNN en Español
-http://tvpromas.com:2082/stk88para84539hdto76349shfg5348/745gd74m549dsh648/2435
-#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Gourmet2012.png/revision/latest/scale-to-width-down/290?cb=20250302135041&path-prefix=es" group-title=" ✅ CULTURA  ✅",EL GOURMET
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53474
-#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="VARIEDADES",Food Network
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/227677
-#EXTINF:-1 tvg-id="1" tvg-name="CINE | PARAMOUNT CHANEL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="❎ CINE PREMIUM Exclusivo ❎",CINE | PARAMOUNT CHANEL SD
-http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/53939
-#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png" group-title="CINE",Star Channel HD
-http://matrivagoweb.xyz:8080/DGDJCC470/123456/83449
-#EXTINF:-1 tvg-id="NAT GEO" tvg-name="National Geographic HD" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png" group-title="CULTURA",National Geographic HD
-http://45.184.87.142:8000/play/a03z
+#PLAYLIST: Deportes HD
+#DESCRIPTION: Canales de deportes en vivo - Mejor calidad HD
+#SOURCE: @iptv270
+#GENERATED: 2026-06-11
+
+# --- COLOMBIA ---
+#EXTINF:-1 xui-id="570070" tvg-id="winsports.co" tvg-name="COL ®| WIN SPORTS HD" tvg-logo="https://i.ibb.co/yg2fw3n/WINS-SPORTS-PLUS.jpg" group-title="COLOMBIA ⏯️ | PREMIUM",COL | WIN SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkQL2dnEtWk_mWn42Z46T73jEBUt-_oe7xEstawx_WVbX/m3u8
+#EXTINF:-1 xui-id="595009" tvg-id="WINSPRE" tvg-name="COL ®| WIN+ FUTBOL HD" tvg-logo="https://i.ibb.co/yg2fw3n/WINS-SPORTS-PLUS.jpg" group-title="COLOMBIA ⏯️ | PREMIUM",COL | WIN+ FUTBOL HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcQ9uSnLy8VNWRuy_kXY5N_NjgLlplZ31S1b3MYqlxWJ/m3u8
+#EXTINF:-1 xui-id="595008" tvg-id="WINSPHD" tvg-name="COL ®| WIN+ FUTBOL HD  (Señal Exclusiva en Eventos)" tvg-logo="https://i.ibb.co/yg2fw3n/WINS-SPORTS-PLUS.jpg" group-title="COLOMBIA ⏯️ | PREMIUM",COL | WIN+ FUTBOL HD (Señal Exclusiva en Eventos)
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcQ9uSnLy8VNWRuy_kXY5N-erBhAkVz0VomuWcYAQmvY/m3u8
+
+# --- ARGENTINA ---
+#EXTINF:-1 xui-id="593431" tvg-id="" tvg-name="ARG ®| TNT SPORTS HD" tvg-logo="https://i.ibb.co/fxnCdYb/ARGENTINA-TNT.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG | TNT SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeVbCjz7o7LDVOWQbhZZXdM3VTOF3djNlOPM7ckTKIjH/m3u8
+#EXTINF:-1 xui-id="593438" tvg-id="TYC SPORTS.ar" tvg-name="ARG ®| TYC SPORTS HD" tvg-logo="https://i.ibb.co/88zWHbH/TYC-SPORTS.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG | TYC SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeVbCjz7o7LDVOWQbhZZXdMqfHbGHBAEK-nou7uosu1i/m3u8
+#EXTINF:-1 xui-id="593433" tvg-id="TYC SPORTS INTERIOR.ar" tvg-name="ARG ®| TYC SPORTS INT" tvg-logo="https://i.ibb.co/88zWHbH/TYC-SPORTS.jpg" group-title="ARGENTINA ⏯️ | PREMIUM",ARG | TYC SPORTS INT
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeVbCjz7o7LDVOWQbhZZXdOrQwSSuy7yHQLj0EG0nQHI/m3u8
+
+# --- CHILE ---
+#EXTINF:-1 xui-id="590129" tvg-id="MARQSD" tvg-name="CH ®| TNT SPORTS HD" tvg-logo="https://i.ibb.co/x68Q7zk/TNT-SPORTS.jpg" group-title="CHILE ⏯️ | PREMIUM",CH | TNT SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRZfObFaIiUI_8RFxb6CKcARK9k1J-4vwKpzWIU0k6a_/m3u8
+#EXTINF:-1 xui-id="599841" tvg-id="" tvg-name="CH ®| TNT SPORTS PREMIUM HD" tvg-logo="https://i.ibb.co/BcSgSLx/TNT-PREMIUM.jpg" group-title="CHILE ⏯️ | PREMIUM",CH | TNT SPORTS PREMIUM HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkT4DxSP6kEBs8fadaAP-yeLhQ03LH5RKbJyMyfma6e32/m3u8
+
+# --- BRASIL ---
+#EXTINF:-1 xui-id="590370" tvg-id="BANDSP" tvg-name="BRA ®| BAND SPORTS HD" tvg-logo="https://i.ibb.co/5KK9L4s/BAND-SPORTS.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | BAND SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZRmLhrApU_xBjC4Dp1izR5HEe1eb2eSVvEY7lAP2WWh/m3u8
+#EXTINF:-1 xui-id="590378" tvg-id="PR2SPO" tvg-name="BRA ®| PREMIERE 2 HD" tvg-logo="https://i.ibb.co/mqrr0vM/PREMIERE-2.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | PREMIERE 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZRmLhrApU_xBjC4Dp1izR5STD4NMqL9QmCudcw2Jg24/m3u8
+#EXTINF:-1 xui-id="590379" tvg-id="PR3UBE" tvg-name="BRA ®| PREMIERE 3 HD" tvg-logo="https://i.ibb.co/x6zkNTS/PREMIERE-3.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | PREMIERE 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZRmLhrApU_xBjC4Dp1izR75SM0cG86673yO1OdMxAiv/m3u8
+#EXTINF:-1 xui-id="590380" tvg-id="PRMR4" tvg-name="BRA ®| PREMIERE 4 HD" tvg-logo="https://i.ibb.co/cDJ2shc/PREMIERE-4.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | PREMIERE 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkappWtWFXaFmlPq437f2yAVswtxylWDQZCt2IkasAS9u/m3u8
+#EXTINF:-1 xui-id="590381" tvg-id="PRMR5HD" tvg-name="BRA ®| PREMIERE 5 HD" tvg-logo="https://i.ibb.co/K9rp36Z/PREMIERE-5.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | PREMIERE 5 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkappWtWFXaFmlPq437f2yAX7xwHhwnFeLd2E2Qu6cKvt/m3u8
+#EXTINF:-1 xui-id="590371" tvg-id="PREANZ" tvg-name="BRA ®| RS NEWS SPORTS 1 HD" tvg-logo="https://i.ibb.co/MyZNz3Qx/RS-NEWS-SPORTS.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | RS NEWS SPORTS 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZRmLhrApU_xBjC4Dp1izR5ZeEQE16atf1T_zQLv2fxn/m3u8
+#EXTINF:-1 xui-id="590372" tvg-id="PREANZ" tvg-name="BRA ®| RS NEWS SPORTS 2 HD" tvg-logo="https://i.ibb.co/FbP0jcnm/RS-NEWS-SPORTS-2.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | RS NEWS SPORTS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZRmLhrApU_xBjC4Dp1izR7LGl7kPyoWg-3Nn2lOm3n2/m3u8
+#EXTINF:-1 xui-id="590373" tvg-id="PREANZ" tvg-name="BRA ®| RS NEWS SPORTS 3 HD" tvg-logo="https://i.ibb.co/x8CFCsjM/RS-NEWS-SPORTS-3.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | RS NEWS SPORTS 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZRmLhrApU_xBjC4Dp1izR4ycMqw4rcO-we8vrJ_c9KA/m3u8
+#EXTINF:-1 xui-id="590375" tvg-id="SPORTV2" tvg-name="BRA ®| SPORTV 2 HD" tvg-logo="https://i.ibb.co/200jPD0g/SPORTV-2.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | SPORTV 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZRmLhrApU_xBjC4Dp1izR4mMWJ5WdhSHPYOhwIhCDNv/m3u8
+#EXTINF:-1 xui-id="590376" tvg-id="SPORTV3" tvg-name="BRA ®| SPORTV 3 HD" tvg-logo="https://i.ibb.co/Y4SHKdYw/SPORTV-3.jpg" group-title="BRASIL ⏯️ | PREMIUM",BRA | SPORTV 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZRmLhrApU_xBjC4Dp1izR6rzZGuii967GBC23zmGWI4/m3u8
+
+# --- ECUADOR ---
+#EXTINF:-1 xui-id="590176" tvg-id="ballysportswest.us" tvg-name="EC ®| EL CANAL DEL FUTBOL HD" tvg-logo="https://i.ibb.co/qnp04QQ/EL-CANAL-DEL-FUTBOL.jpg" group-title="ECUADOR ⏯️ | PREMIUM",EC | EL CANAL DEL FUTBOL HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akc8X-tpT1uDVJ9vCj_SrowWvKTd75o8os_kOaJ_S_BkR/m3u8
+#EXTINF:-1 xui-id="599748" tvg-id="" tvg-name="EC ®| MAX CLICK SPORTS 1 (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/kxSj7C8/LIGA-PRO-2025.jpg" group-title="ECUADOR ⏯️ | PREMIUM",EC | MAX CLICK SPORTS 1 (SOLO EVENTOS)
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUc6asAO1ww-eEKOLAn0v6XC0NrmE3f0Ua3IdtFAt1_2/m3u8
+#EXTINF:-1 xui-id="607754" tvg-id="" tvg-name="EC ®| MAX CLICK SPORTS 2 (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/kxSj7C8/LIGA-PRO-2025.jpg" group-title="ECUADOR ⏯️ | PREMIUM",EC | MAX CLICK SPORTS 2 (SOLO EVENTOS)
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXiR_sY057T9The3Bie2PBuPHeFKRIs0O_fjMa_XDm1G/m3u8
+#EXTINF:-1 xui-id="627811" tvg-id="" tvg-name="EC ®| MAX CLICK SPORTS 3 (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/kxSj7C8/LIGA-PRO-2025.jpg" group-title="ECUADOR ⏯️ | PREMIUM",EC | MAX CLICK SPORTS 3 (SOLO EVENTOS)
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkR604vf_reiadNeviTv4lVegNCCWk-YfMyPSCzmGd1BI/m3u8
+
+# --- PERU ---
+#EXTINF:-1 xui-id="595208" tvg-id="moviestardeportes.pe" tvg-name="PERU ®| MOVISTAR DEPORTES HD" tvg-logo="https://i.ibb.co/PQcRbTG/MOVISTAR-DEPORTES.jpg" group-title="PERU ⏯️ | PREMIUM",PERU | MOVISTAR DEPORTES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRoGZfkeu4oP7mczeUmNdU3wpr0FQn6yHXmR5vFplkks/m3u8
+
+# --- URUGUAY ---
+#EXTINF:-1 xui-id="416199" tvg-id="GOLTV" tvg-name="URUG ®| GOL TV HD" tvg-logo="https://i.ibb.co/YtMpwjm/gol-tv.jpg" group-title="URUGUAY ⏯️ | PREMIUM",URUG | GOL TV HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeFvh07FzUoFEwMGpl4TJ7veQ3rulswMf5jzu4m9ZmzJ/m3u8
+
+# --- PARAGUAY ---
+#EXTINF:-1 xui-id="334432" tvg-id="WTVA" tvg-name="PY ®| TIGO SPORTS HD" tvg-logo="https://i.ibb.co/WB6rxfL/TIGO-HONDURAS.jpg" group-title="PARAGUAY ⏯️ | PREMIUM",PY | TIGO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRRc3vTlBcK1Yw2MB0Zrtp0KMdPRo-4xeFeRNy3YLoFG/m3u8
+
+# --- BOLIVIA ---
+#EXTINF:-1 xui-id="333659" tvg-id="TVBOL" tvg-name="BOL ®| F10 HD" tvg-logo="https://i.ibb.co/VWkpVR6S/F10.jpg" group-title="BOLIVIA ⏯️ | PREMIUM",BOL | F10 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUS0j4VJVfIOebJjZMAwocjtfIKc4Tz-VabEa5TUWQYw/m3u8
+#EXTINF:-1 xui-id="451042" tvg-id="TIGO" tvg-name="BOL ®| FUTBOL CANAL HD" tvg-logo="https://i.ibb.co/qddvtpQ/Futbol-canal.jpg" group-title="BOLIVIA ⏯️ | PREMIUM",BOL | FUTBOL CANAL HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkdB5ItsbI_9PBVD6qjfujwwj_Eb0Hlg2cLmFIJIMq6H1/m3u8
+#EXTINF:-1 xui-id="451044" tvg-id="TIGO" tvg-name="BOL ®| TIGO SPORTS 1 HD" tvg-logo="https://i.ibb.co/cTX0wX7/TIGO.jpg" group-title="BOLIVIA ⏯️ | PREMIUM",BOL | TIGO SPORTS 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkdB5ItsbI_9PBVD6qjfujwz2bgF-8T2iYn7AyTC6qb2W/m3u8
+#EXTINF:-1 xui-id="599742" tvg-id="" tvg-name="BOL ®| TIGO SPORTS 2 HD" tvg-logo="https://i.ibb.co/x2YpdT5/TIGO-2.jpg" group-title="BOLIVIA ⏯️ | PREMIUM",BOL | TIGO SPORTS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUc6asAO1ww-eEKOLAn0v6W66LJ9nhmVrZjP7dw5Wokv/m3u8
+#EXTINF:-1 xui-id="626684" tvg-id="" tvg-name="BOL ®| TIGO SPORTS 3 HD" tvg-logo="https://i.ibb.co/M5tvhLM/TIGO-3.jpg" group-title="BOLIVIA ⏯️ | PREMIUM",BOL | TIGO SPORTS 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaUtpaclpU9eL_xH-zwcyEM3LUe5xaCHMq8J0V79O3Bp/m3u8
+
+# --- ESPAÑA ---
+#EXTINF:-1 xui-id="494097" tvg-id="TDEP" tvg-name="ESP ®| TELEDEPORTES©️ HD" tvg-logo="https://i.ibb.co/QNrr2cQ/TELE-DEPORTES.jpg" group-title="ESPAÑA ⏯️ | PREMIUM",ESP | TELEDEPORTES️ HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akd7h0la39yzNhGo9XXor9hujPQ1rbSYo2Ar7Z78dteR9/m3u8
+
+# --- DEPORTES  EUROPA ---
+#EXTINF:-1 xui-id="333788" tvg-id="beinsportespanol.us" tvg-name="DEPORTES ®| B3IN⛔ SPORTS FRANCE HD" tvg-logo="https://i.ibb.co/PQFMLzN/BEIN-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",DEPORTES | B3IN SPORTS FRANCE HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSeHN_8OpKpyIEyQekDKPsPfyQZcmoUMaPS_8UJwzfY6/m3u8
+#EXTINF:-1 xui-id="333789" tvg-id="beinsportespanol.us" tvg-name="DEPORTES ®| B3IN⛔ SPORTS HD" tvg-logo="https://i.ibb.co/PQFMLzN/BEIN-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",DEPORTES | B3IN SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSeHN_8OpKpyIEyQekDKPsOmVewE6IjoQt0j8PhGmnRb/m3u8
+#EXTINF:-1 xui-id="351640" tvg-id="SKY1" tvg-name="ESP ®|  #VAMOS⛔ HD" tvg-logo="https://i.ibb.co/FsdCQZX/VAMOS.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | #VAMOS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRuPujXHIRPBuNXnyXsdspZTpUbXVSm7AP2E4HYLvPne/m3u8
+#EXTINF:-1 xui-id="333822" tvg-id="LALTV" tvg-name="ESP ®|  HYP3RMOTION⛔  4 HD" tvg-logo="https://i.ibb.co/K287kLK/LA-LIGA-TV-hypermotion.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | HYP3RMOTION 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbE-9HXIN7SFA5kAsZQpbxJZ4_QGzhZltbQ0vh6jbLLf/m3u8
+#EXTINF:-1 xui-id="333805" tvg-id="daznlaliga.es" tvg-name="ESP ®|  LIGU3 DA⛔ N 2 HD" tvg-logo="https://i.ibb.co/bXKyckC/DAZN-LIGA-2.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | LIGU3 DA N 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVZxIRcQk_ibqrTGoV_tXQuCSk1EWGI5rVEnZz-lQCPq/m3u8
+#EXTINF:-1 xui-id="333808" tvg-id="dazn3.es" tvg-name="ESP ®| DAZN©️ SPORTS 3 HD" tvg-logo="https://i.ibb.co/xMSTqBw/DANZ-ESPA-A.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | DAZN️ SPORTS 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVZxIRcQk_ibqrTGoV_tXQsrSF2agRQZtdCbqj4Mn-dc/m3u8
+#EXTINF:-1 xui-id="333801" tvg-id="daznf1.es" tvg-name="ESP ®| DA⛔ N FORMULA 1 HD" tvg-logo="https://i.ibb.co/6FPwn3r/DAZN-F.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | DA N FORMULA 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVZxIRcQk_ibqrTGoV_tXQtOudDyqTGP4hh3EEjmT03s/m3u8
+#EXTINF:-1 xui-id="333809" tvg-id="dazn4.es" tvg-name="ESP ®| DA⛔ N SPORTS  4 HD" tvg-logo="https://i.ibb.co/xMSTqBw/DANZ-ESPA-A.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | DA N SPORTS 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVZxIRcQk_ibqrTGoV_tXQudxCGbaW61vVcdaQD9EQbD/m3u8
+#EXTINF:-1 xui-id="333806" tvg-id="dazn1.es" tvg-name="ESP ®| DA⛔ N SPORTS 1  HD" tvg-logo="https://i.ibb.co/xMSTqBw/DANZ-ESPA-A.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | DA N SPORTS 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVZxIRcQk_ibqrTGoV_tXQsCNmDaV04yO19x5wYImhGj/m3u8
+#EXTINF:-1 xui-id="333807" tvg-id="dazn2.es" tvg-name="ESP ®| DA⛔ N SPORTS 2 HD" tvg-logo="https://i.ibb.co/xMSTqBw/DANZ-ESPA-A.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | DA N SPORTS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVZxIRcQk_ibqrTGoV_tXQvMeroDG_LzI2rbHA_hbtpP/m3u8
+#EXTINF:-1 xui-id="333836" tvg-id="" tvg-name="ESP ®| DEPORTES⛔ 1 HD" tvg-logo="https://i.ibb.co/bBBvSvq/DEPORTES-por-M.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | DEPORTES 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkedmGzpycMiirMjV2Pozw05nG6Do7Eho_JbYQYSKGT5F/m3u8
+#EXTINF:-1 xui-id="333837" tvg-id="" tvg-name="ESP ®| DEPORTES⛔ 2 HD" tvg-logo="https://i.ibb.co/bBBvSvq/DEPORTES-por-M.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | DEPORTES 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkedmGzpycMiirMjV2Pozw07laym6FVyZFAf2sF6bLe7w/m3u8
+#EXTINF:-1 xui-id="333798" tvg-id="eurosport1.es" tvg-name="ESP ®| EURO⛔ SPORTS 1 HD" tvg-logo="https://i.ibb.co/zf1H6bZ/EURO-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | EURO SPORTS 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaJDxEhibkHesbX-jGk7D54R0TkJAH0VaXYFYm4DmKGX/m3u8
+#EXTINF:-1 xui-id="333799" tvg-id="eurosport2.es" tvg-name="ESP ®| EURO⛔ SPORTS 2 HD" tvg-logo="https://i.ibb.co/T1wsZFZ/EURO-SPORTS-2.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | EURO SPORTS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaJDxEhibkHesbX-jGk7D56uKZ02wUtSBnQaBpCs_RKN/m3u8
+#EXTINF:-1 xui-id="344113" tvg-id="movistargolf.es" tvg-name="ESP ®| GOLF⛔ HD" tvg-logo="https://i.ibb.co/LCKNhzm/GOLF-MOVISTAR.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | GOLF HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWNFYXfgfdLITNtQABxoreJ_i48J3pQaD3u8AWSUAt-c/m3u8
+#EXTINF:-1 xui-id="333821" tvg-id="LALTV" tvg-name="ESP ®| HYP3RMOTION⛔ 3 HD" tvg-logo="https://i.ibb.co/K287kLK/LA-LIGA-TV-hypermotion.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | HYP3RMOTION 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbE-9HXIN7SFA5kAsZQpbxIF3_eW0JzcKvMw4MCaXHiO/m3u8
+#EXTINF:-1 xui-id="333819" tvg-id="LALTV" tvg-name="ESP ®| HYPERMOTION⛔  1 HD" tvg-logo="https://i.ibb.co/K287kLK/LA-LIGA-TV-hypermotion.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | HYPERMOTION 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeXeibli-DcHHcnObSw2aYtQZGboiH070aAnFyo1lqti/m3u8
+#EXTINF:-1 xui-id="333820" tvg-id="LIGATV" tvg-name="ESP ®| HYPERMOTION⛔  2 HD" tvg-logo="https://i.ibb.co/K287kLK/LA-LIGA-TV-hypermotion.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | HYPERMOTION 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbE-9HXIN7SFA5kAsZQpbxLzE-l5FauL23lRV8mC-5--/m3u8
+#EXTINF:-1 xui-id="333803" tvg-id="DAZN 1" tvg-name="ESP ®| LIGU3 DA⛔ N HD" tvg-logo="https://i.ibb.co/rs5FrM3/DAZN-LIGA.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | LIGU3 DA N HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVZxIRcQk_ibqrTGoV_tXQv23FgiWkaTWYbzOiirE5yi/m3u8
+#EXTINF:-1 xui-id="333825" tvg-id="M.LCAMPEON1" tvg-name="ESP ®| M+ CAMP3ON3S⛔ 1 HD" tvg-logo="https://i.ibb.co/SRn5G2B/LIGA-DE-CAMPEONES.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ CAMP3ON3S 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbE-9HXIN7SFA5kAsZQpbxLHFM5o1jX3ND8UnnAaOkoE/m3u8
+#EXTINF:-1 xui-id="333826" tvg-id="M.LCAMPEON2" tvg-name="ESP ®| M+ CAMP3ON3S⛔ 2 HD" tvg-logo="https://i.ibb.co/SRn5G2B/LIGA-DE-CAMPEONES.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ CAMP3ON3S 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbE-9HXIN7SFA5kAsZQpbxJK8A8gCCTtJomUxh5uLOGK/m3u8
+#EXTINF:-1 xui-id="333827" tvg-id="M.LCAMPEON1" tvg-name="ESP ®| M+ CAMP3ON3S⛔ 3 HD" tvg-logo="https://i.ibb.co/SRn5G2B/LIGA-DE-CAMPEONES.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ CAMP3ON3S 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbE-9HXIN7SFA5kAsZQpbxKKsKBmHrG0mN7RF3OsFo1s/m3u8
+#EXTINF:-1 xui-id="333828" tvg-id="M.LCAMPEON2" tvg-name="ESP ®| M+ CAMP3ON3S⛔ 4 HD" tvg-logo="https://i.ibb.co/SRn5G2B/LIGA-DE-CAMPEONES.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ CAMP3ON3S 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbE-9HXIN7SFA5kAsZQpbxL3ifbAlCL4chjxqQRm8QBQ/m3u8
+#EXTINF:-1 xui-id="333829" tvg-id="M.LCAMPEON1" tvg-name="ESP ®| M+ CAMP3ON3S⛔ 5 HD" tvg-logo="https://i.ibb.co/SRn5G2B/LIGA-DE-CAMPEONES.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ CAMP3ON3S 5 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbE-9HXIN7SFA5kAsZQpbxJf3D_RwIJWVaBHzU_EkU42/m3u8
+#EXTINF:-1 xui-id="333830" tvg-id="M.LCAMPEON1" tvg-name="ESP ®| M+ CAMP3ON3S⛔ 6 HD" tvg-logo="https://i.ibb.co/SRn5G2B/LIGA-DE-CAMPEONES.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ CAMP3ON3S 6 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkedmGzpycMiirMjV2Pozw06GsOqblxl4soHfpYKZt7tI/m3u8
+#EXTINF:-1 xui-id="333831" tvg-id="M.LCAMPEON1" tvg-name="ESP ®| M+ CAMP3ON3S⛔ 7 HD" tvg-logo="https://i.ibb.co/SRn5G2B/LIGA-DE-CAMPEONES.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ CAMP3ON3S 7 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkedmGzpycMiirMjV2Pozw04IENJSmH_dsxHOpJqKo54_/m3u8
+#EXTINF:-1 xui-id="333833" tvg-id="" tvg-name="ESP ®| M+ LIGU3⛔ 2 HD" tvg-logo="https://i.ibb.co/0hfg3Dv/LALIGA-TV-POR-M.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ LIGU3 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkedmGzpycMiirMjV2Pozw05_VEOVNzCv613ReuAcWDR1/m3u8
+#EXTINF:-1 xui-id="333834" tvg-id="" tvg-name="ESP ®| M+ LIGU3⛔ 3 HD" tvg-logo="https://i.ibb.co/0hfg3Dv/LALIGA-TV-POR-M.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ LIGU3 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkedmGzpycMiirMjV2Pozw056INZrqszpfmANXw5iXvYR/m3u8
+#EXTINF:-1 xui-id="333835" tvg-id="" tvg-name="ESP ®| M+ LIGU3⛔ 4 HD" tvg-logo="https://i.ibb.co/0hfg3Dv/LALIGA-TV-POR-M.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ LIGU3 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkedmGzpycMiirMjV2Pozw04yqkhFSsCQO3mAcxl4H-Je/m3u8
+#EXTINF:-1 xui-id="333832" tvg-id="" tvg-name="ESP ®| M+ LIGUE⛔ 1 HD" tvg-logo="https://i.ibb.co/0hfg3Dv/LALIGA-TV-POR-M.jpg" group-title="DEPORTES ⏯️ | EUROPA",ESP | M+ LIGUE 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkedmGzpycMiirMjV2Pozw06i_QtsVkZ9742FOS3oKv_n/m3u8
+#EXTINF:-1 xui-id="333797" tvg-id="Eurosport 2" tvg-name="PORT ®| EURO⛔ SPORTS 2 HD" tvg-logo="https://i.ibb.co/T1wsZFZ/EURO-SPORTS-2.jpg" group-title="DEPORTES ⏯️ | EUROPA",PORT | EURO SPORTS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaJDxEhibkHesbX-jGk7D57WjhvXO3M9UCxDVWEzaeCH/m3u8
+#EXTINF:-1 xui-id="333796" tvg-id="eurosport1.es" tvg-name="PORT ®| EURO⛔ SPORTS HD" tvg-logo="https://i.ibb.co/zf1H6bZ/EURO-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",PORT | EURO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaJDxEhibkHesbX-jGk7D56yxp8QEh953v70HI1bX--k/m3u8
+#EXTINF:-1 xui-id="333780" tvg-id="SPTTV" tvg-name="PTGL®|  SPORT.⛔ TV 1 HD" tvg-logo="https://i.ibb.co/61Z3rG7/SPORT-TV-1.jpg" group-title="DEPORTES ⏯️ | EUROPA",PTGL| SPORT. TV 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSeHN_8OpKpyIEyQekDKPsMzEAQOvnEX59kB06ddtyXV/m3u8
+#EXTINF:-1 xui-id="333781" tvg-id="SPTTV" tvg-name="PTGL®|  SPORT.⛔ TV 2 HD" tvg-logo="https://i.ibb.co/hmbNKzY/SPORT-TV-2.jpg" group-title="DEPORTES ⏯️ | EUROPA",PTGL| SPORT. TV 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSeHN_8OpKpyIEyQekDKPsPZClMvdKs2Jy0AojJCSy5c/m3u8
+#EXTINF:-1 xui-id="333782" tvg-id="SPTTV" tvg-name="PTGL®|  SPORT.⛔ TV 3 HD" tvg-logo="https://i.ibb.co/dgvsF3S/SPORT-TV-3.jpg" group-title="DEPORTES ⏯️ | EUROPA",PTGL| SPORT. TV 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSeHN_8OpKpyIEyQekDKPsMAGx82c8njyHNfhSg3FKba/m3u8
+#EXTINF:-1 xui-id="333783" tvg-id="SPTTV" tvg-name="PTGL®|  SPORT.⛔ TV 4 HD" tvg-logo="https://i.ibb.co/NTbhF7t/SPORT-TV.jpg" group-title="DEPORTES ⏯️ | EUROPA",PTGL| SPORT. TV 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSeHN_8OpKpyIEyQekDKPsMQT-_FcXT48bg0MT8WQLp_/m3u8
+#EXTINF:-1 xui-id="333784" tvg-id="SPTTV" tvg-name="PTGL®|  SPORT.⛔ TV 5 HD" tvg-logo="https://i.ibb.co/tm9Njs5/SPORT-TV-5.jpg" group-title="DEPORTES ⏯️ | EUROPA",PTGL| SPORT. TV 5 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSeHN_8OpKpyIEyQekDKPsNF2mSHYfpT6FcN75evfhm5/m3u8
+#EXTINF:-1 xui-id="333785" tvg-id="SPTTV" tvg-name="PTGL®| SPORT.⛔ TV + HD" tvg-logo="https://i.ibb.co/nM63W0T/SPORT-TV.jpg" group-title="DEPORTES ⏯️ | EUROPA",PTGL| SPORT. TV + HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSeHN_8OpKpyIEyQekDKPsMEjDZBw_Pfxosow1ZbuRDZ/m3u8
+#EXTINF:-1 xui-id="351644" tvg-id="" tvg-name="SKY ®|  ARENA⛔ HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | ARENA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRuPujXHIRPBuNXnyXsdspYxrowO-_DWQk7ta5uj7PjG/m3u8
+#EXTINF:-1 xui-id="416182" tvg-id="ELEVEN" tvg-name="SKY ®|  BUNDESLIGU3⛔  HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | BUNDESLIGU3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeXUmZto1TUgZKgEXmqwTXMk_kPTBb6Ti6h2cmSHNCkg/m3u8
+#EXTINF:-1 xui-id="365205" tvg-id="sky.sports.f1.gb" tvg-name="SKY ®|  FORMULA⛔ 1 HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | FORMULA 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkYxGjDw0jldePeovwh14i5pLDF2Iti0iK07mhOxhNQU5/m3u8
+#EXTINF:-1 xui-id="351643" tvg-id="" tvg-name="SKY ®|  GOLF⛔ HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | GOLF HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRuPujXHIRPBuNXnyXsdspYO64FadZCgoAo95M_L2aWf/m3u8
+#EXTINF:-1 xui-id="416181" tvg-id="" tvg-name="SKY ®|  MOTOS⛔ GP HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | MOTOS GP HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeXUmZto1TUgZKgEXmqwTXMg3xWVrq7tbLVqLYhW8xjw/m3u8
+#EXTINF:-1 xui-id="360330" tvg-id="GOLFBO" tvg-name="SKY ®|  PREMIERE LEAGUE⛔ HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | PREMIERE LEAGUE HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXFBTQKpkrcuuSx9wUxqBs0nN1_o39y4jNpc9oGyKym2/m3u8
+#EXTINF:-1 xui-id="351642" tvg-id="" tvg-name="SKY ®| LIGU3⛔ ESPAÑOL HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | LIGU3 ESPAÑOL HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRuPujXHIRPBuNXnyXsdspYMMJx7Z0U_Hw18wDO_OrJx/m3u8
+#EXTINF:-1 xui-id="416183" tvg-id="ELEVSP" tvg-name="SKY ®| LIGU3⛔ INGLESA HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | LIGU3 INGLESA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeXUmZto1TUgZKgEXmqwTXM-g18WTGhfyT0RVQ3aG-Dm/m3u8
+#EXTINF:-1 xui-id="616656" tvg-id="" tvg-name="SKY ®| TENNIS⛔  HD" tvg-logo="https://i.ibb.co/fFGwrnG/SKY-SPORTS.jpg" group-title="DEPORTES ⏯️ | EUROPA",SKY | TENNIS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkfHpVBFu3-oPTV30IiIbCu3boZPiBvoBX919FGBrOTUk/m3u8
+
+# --- MEXICO ---
+#EXTINF:-1 xui-id="600739" tvg-id="" tvg-name="MX ®|  TELEFORMULA HD" tvg-logo="https://i.ibb.co/G3QxyKT/TELEFORMULA.jpg" group-title="MEXICO ⏯️ | PREMIUM",MX | TELEFORMULA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkQNTHuMziTsmx8Ji2DAXlkTkNSsu9pk-I5K23BvKbxFH/m3u8
+#EXTINF:-1 xui-id="600763" tvg-id="" tvg-name="MX ®| AYM SPORTS HD" tvg-logo="https://i.ibb.co/h1Vqvpf/AYM-SPORTS.jpg" group-title="MEXICO ⏯️ | PREMIUM",MX | AYM SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXU14k2wM3GxoOTWX6WQjmcxbrQfnLWfioPNX97vm3GR/m3u8
+#EXTINF:-1 xui-id="621038" tvg-id="" tvg-name="MX ®| AZTECA DEPORTES HD" tvg-logo="https://i.ibb.co/NgtnDmn3/TV-AZTECA-DEPORTES.jpg" group-title="MEXICO ⏯️ | PREMIUM",MX | AZTECA DEPORTES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akagy9gA2saSiEeM_Vx1qr3eBYShOcTuMbXTe9_lqH5VM/m3u8
+#EXTINF:-1 xui-id="600760" tvg-id="" tvg-name="MX ®| CLARO SPORTS 2 HD" tvg-logo="https://i.ibb.co/CnJmgdZ/CLARO-SPORTS.jpg" group-title="MEXICO ⏯️ | PREMIUM",MX | CLARO SPORTS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXU14k2wM3GxoOTWX6WQjmcJ-tH97D79v8oCulkSQLj0/m3u8
+#EXTINF:-1 xui-id="600759" tvg-id="" tvg-name="MX ®| CLARO SPORTS HD" tvg-logo="https://i.ibb.co/CnJmgdZ/CLARO-SPORTS.jpg" group-title="MEXICO ⏯️ | PREMIUM",MX | CLARO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akc3OLe-WWMD8JzTXZ9VGUNGwCrj2ddw79o4kuxzL3fgu/m3u8
+#EXTINF:-1 xui-id="600762" tvg-id="" tvg-name="MX ®| IV DEPORTES HD" tvg-logo="https://i.ibb.co/cXvHt2Fp/tv-deportes-fondo.png" group-title="MEXICO ⏯️ | PREMIUM",MX | IV DEPORTES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXU14k2wM3GxoOTWX6WQjmc9NB2VsnyDYzZTup5yhT-N/m3u8
+#EXTINF:-1 xui-id="600761" tvg-id="" tvg-name="MX ®| TVC DEPORTES HD" tvg-logo="https://i.ibb.co/Cmyrx0k/TVC-DEPORTES.jpg" group-title="MEXICO ⏯️ | PREMIUM",MX | TVC DEPORTES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXU14k2wM3GxoOTWX6WQjmfrmRgEznbhdjuAHiGujh3b/m3u8
+
+# --- DEPORTES ---
+#EXTINF:-1 xui-id="418334" tvg-id="EVENT6" tvg-name="ANDINO ®| MAX SPORTS + HD" tvg-logo="https://i.ibb.co/VkKWFYv/Directivo-Andino.jpg" group-title="DEPORTES ⏯️ | PREMIUM",ANDINO | MAX SPORTS + HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkQMJ35bjJ47hhXxSCJPPrLpJbWLvpyO0gABskL6Hq1XS/m3u8
+#EXTINF:-1 xui-id="418330" tvg-id="EVENT5" tvg-name="ANDINO ®| MAX SPORTS 2 HD" tvg-logo="https://i.ibb.co/rGqvNfHf/Directv-Andino-2.jpg" group-title="DEPORTES ⏯️ | PREMIUM",ANDINO | MAX SPORTS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkQMJ35bjJ47hhXxSCJPPrLpUZdDPlq6GeK__lVilSd6U/m3u8
+#EXTINF:-1 xui-id="418329" tvg-id="EVENT4" tvg-name="ANDINO ®| MAX SPORTS HD" tvg-logo="https://i.ibb.co/7tfhPPD8/Directv-Andino.jpg" group-title="DEPORTES ⏯️ | PREMIUM",ANDINO | MAX SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkU-rpqprZONwlGBKccPdpxxRvv8Zrryqh_j1C7v-R5fJ/m3u8
+#EXTINF:-1 xui-id="450928" tvg-id="FOXS3A" tvg-name="ARG ®| FOX SPORTS 2 FHD" tvg-logo="https://i.ibb.co/XSc3PVf/FOX-SPORTS-2.jpg" group-title="DEPORTES ⏯️ | PREMIUM",ARG | FOX SPORTS 2 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWpmmG_bzNdywKtresP6epYCxgc1D7h4sVM6Ps1a-R7o/m3u8
+#EXTINF:-1 xui-id="450930" tvg-id="foxsports.mx" tvg-name="ARG ®| FOX SPORTS 3 FHD" tvg-logo="https://i.ibb.co/pd27xL1/FOX-SPORTS-3.jpg" group-title="DEPORTES ⏯️ | PREMIUM",ARG | FOX SPORTS 3 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbJVm__tHtue7NLFkTFO2PtnpeJO3llN6BvN2CPEJ08C/m3u8
+#EXTINF:-1 xui-id="450926" tvg-id="FS2AR" tvg-name="ARG ®| FOX SPORTS FHD" tvg-logo="https://i.ibb.co/LNxs37f/FOX-SPORTS.jpg" group-title="DEPORTES ⏯️ | PREMIUM",ARG | FOX SPORTS FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWpmmG_bzNdywKtresP6epZNjTVCgnJbw3OzaRZ9o8qL/m3u8
+#EXTINF:-1 xui-id="497869" tvg-id="beinsportespanol.us" tvg-name="ARG ®| TNT SPORTS PREMIUM HD" tvg-logo="https://i.ibb.co/fxnCdYb/ARGENTINA-TNT.jpg" group-title="DEPORTES ⏯️ | PREMIUM",ARG | TNT SPORTS PREMIUM HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkePALJdZzM76UH3MSepuF45fkRIckYHQKVpcxAeznkom/m3u8
+#EXTINF:-1 xui-id="495775" tvg-id="TVCDEP" tvg-name="BRA ®| PREMIERE CLUBES HD" tvg-logo="https://i.ibb.co/XWNyThg/PREMIER-CLUBE.jpg" group-title="DEPORTES ⏯️ | PREMIUM",BRA | PREMIERE CLUBES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVQSzaYs1INCGYIPguGfJkTb2MANh3nZI06MKaFMRh5L/m3u8
+#EXTINF:-1 xui-id="495776" tvg-id="tvcdeportes.mx" tvg-name="BRA ®| SPORTV 1 HD" tvg-logo="https://i.ibb.co/NdRv9QfC/SPORTV.jpg" group-title="DEPORTES ⏯️ | PREMIUM",BRA | SPORTV 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVQSzaYs1INCGYIPguGfJkQkyCFDXJNjurr2wOe7Iuq8/m3u8
+#EXTINF:-1 xui-id="497870" tvg-id="beinsportsxtra.us" tvg-name="CHI ®| TNT SPORTS PREMIUM HD" tvg-logo="https://i.ibb.co/BcSgSLx/TNT-PREMIUM.jpg" group-title="DEPORTES ⏯️ | PREMIUM",CHI | TNT SPORTS PREMIUM HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkdUt5Dx8YpAXvjwDlNz0UIX7fHdlIJrIME-qC05hxpQr/m3u8
+#EXTINF:-1 xui-id="509692" tvg-id="GOLTV" tvg-name="DEPORTES ®| BEIN SPORTS LATINO HD" tvg-logo="https://i.ibb.co/PQFMLzN/BEIN-SPORTS.jpg" group-title="DEPORTES ⏯️ | PREMIUM",DEPORTES | BEIN SPORTS LATINO HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaGfW1WffTqBk0r1n-Uw_A_M5OY_6YwK1KggU6Qf6kEY/m3u8
+#EXTINF:-1 xui-id="565480" tvg-id="" tvg-name="DEPORTES ®| BEIN SPORTS XTRA Ñ HD" tvg-logo="https://i.ibb.co/PQFMLzN/BEIN-SPORTS.jpg" group-title="DEPORTES ⏯️ | PREMIUM",DEPORTES | BEIN SPORTS XTRA Ñ HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkTmRsGhynt93nkEfsM9zv_0DH2PTqT2UKh7eRJ34LJDq/m3u8
+#EXTINF:-1 xui-id="509691" tvg-id="GOLTV" tvg-name="DEPORTES ®| BEIN SPORTS Ñ HD" tvg-logo="https://i.ibb.co/PQFMLzN/BEIN-SPORTS.jpg" group-title="DEPORTES ⏯️ | PREMIUM",DEPORTES | BEIN SPORTS Ñ HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaGfW1WffTqBk0r1n-Uw_A-TJAVjQf-CMocnljU5Ri4u/m3u8
+#EXTINF:-1 xui-id="621037" tvg-id="" tvg-name="DEPORTES ®| GOLF CHENNEL HD" tvg-logo="https://i.ibb.co/0ndWZt6/GOLF-LATIN.jpg" group-title="DEPORTES ⏯️ | PREMIUM",DEPORTES | GOLF CHENNEL HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akagy9gA2saSiEeM_Vx1qr3fSvc5mSmk5EwvPtqHHaSeS/m3u8
+#EXTINF:-1 xui-id="488933" tvg-id="AFIZZHD" tvg-name="LAT ®| CLARO SPORTS HD" tvg-logo="https://i.ibb.co/CnJmgdZ/CLARO-SPORTS.jpg" group-title="DEPORTES ⏯️ | PREMIUM",LAT | CLARO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVsDeDhBE8hZHxvbjvtzGRZiV2-eVjdqfyhlYDUTIEwt/m3u8
+#EXTINF:-1 xui-id="332560" tvg-id="EVENTS1" tvg-name="LAT ®| MAX FIGHT HD" tvg-logo="https://i.ibb.co/8D101B0/directv.jpg" group-title="DEPORTES ⏯️ | PREMIUM",LAT | MAX FIGHT HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkTPQLiSvmjM-Z9dpOok417bh_Fi20bA8MqA6KTWMmmhf/m3u8
+#EXTINF:-1 xui-id="495778" tvg-id="ufcnetwork.mx" tvg-name="LAT ®| UFC HD" tvg-logo="https://i.ibb.co/fS5DdBM/UFC.jpg" group-title="DEPORTES ⏯️ | PREMIUM",LAT | UFC HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkVQSzaYs1INCGYIPguGfJkRp8jD5qMP3SA7qLHuvr6X0/m3u8
+#EXTINF:-1 xui-id="450922" tvg-id="foxdeportes.us" tvg-name="LATAM ®| FOX ONE HD" tvg-logo="https://i.ibb.co/Gfxy6QCD/Fox-one.jpg" group-title="DEPORTES ⏯️ | PREMIUM",LATAM | FOX ONE HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWpmmG_bzNdywKtresP6epbtSXC-2fjx-ggtv3Ra5j3p/m3u8
+#EXTINF:-1 xui-id="621044" tvg-id="" tvg-name="MX ®| CALIENTE TV HD" tvg-logo="https://i.ibb.co/0p22WHDt/4.png" group-title="DEPORTES ⏯️ | PREMIUM",MX | CALIENTE TV HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akcz_wQ4c0DXlXKjDMHgpSSv0R0NpljcmkdtdCJmrDh56/m3u8
+#EXTINF:-1 xui-id="450950" tvg-id="foxsports3.mx" tvg-name="MX ®| FOX SPORTS 2 FHD" tvg-logo="https://i.ibb.co/XSc3PVf/FOX-SPORTS-2.jpg" group-title="DEPORTES ⏯️ | PREMIUM",MX | FOX SPORTS 2 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkS6ZFgiN1i1NHLjoYM-p0m_djmBWi2z9-AsovWieApha/m3u8
+#EXTINF:-1 xui-id="462581" tvg-id="FSALPV" tvg-name="MX ®| FOX SPORTS 3 FHD" tvg-logo="https://i.ibb.co/pd27xL1/FOX-SPORTS-3.jpg" group-title="DEPORTES ⏯️ | PREMIUM",MX | FOX SPORTS 3 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkYYQscE9kbmvZRhCZGovLVLhQhDJbGiIU8C0RzAFfGz0/m3u8
+#EXTINF:-1 xui-id="450932" tvg-id="foxsports2.mx" tvg-name="MX ®| FOX SPORTS FHD" tvg-logo="https://i.ibb.co/LNxs37f/FOX-SPORTS.jpg" group-title="DEPORTES ⏯️ | PREMIUM",MX | FOX SPORTS FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbJVm__tHtue7NLFkTFO2PtuvzomVzt3WuHmmvGJUad3/m3u8
+#EXTINF:-1 xui-id="462591" tvg-id="CLAROSA" tvg-name="MX ®| FOX SPORTS PREMIUM FHD" tvg-logo="https://i.ibb.co/SJtX4r1/FOX-SPORTS-PREMIUM.jpg" group-title="DEPORTES ⏯️ | PREMIUM",MX | FOX SPORTS PREMIUM FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZUIk8xonIHQ2O0clxNB4i-BLKR6ndpxy4GiXX_Zklir/m3u8
+#EXTINF:-1 xui-id="621041" tvg-id="" tvg-name="MX ®| HI SPORTS HD" tvg-logo="https://i.ibb.co/FkBfPxSh/3.png" group-title="DEPORTES ⏯️ | PREMIUM",MX | HI SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akcz_wQ4c0DXlXKjDMHgpSSvCpL_RTTEVkdC5ggeB3P37/m3u8
+#EXTINF:-1 xui-id="621039" tvg-id="" tvg-name="MX ®| SPECTRUM SPORTS HD" tvg-logo="https://i.ibb.co/mVfLfW53/2.png" group-title="DEPORTES ⏯️ | PREMIUM",MX | SPECTRUM SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akagy9gA2saSiEeM_Vx1qr3ecfzMjxtc-B85WjxekCOzk/m3u8
+#EXTINF:-1 xui-id="497867" tvg-id="ufcnetwork.mx" tvg-name="MX ®| TUDN HD" tvg-logo="https://i.ibb.co/x5nJxdS/TUDN-MX.jpg" group-title="DEPORTES ⏯️ | PREMIUM",MX | TUDN HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkePALJdZzM76UH3MSepuF47JlwXaMFWasqYunnKf8w6V/m3u8
+#EXTINF:-1 xui-id="626686" tvg-id="" tvg-name="MX ®| VIX LO MEJOR LIGA MX HD" tvg-logo="https://i.ibb.co/cXSK1kj2/6.png" group-title="DEPORTES ⏯️ | PREMIUM",MX | VIX LO MEJOR LIGA MX HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaUtpaclpU9eL_xH-zwcyEO2NcUtRmHlZX94gJTTCNgz/m3u8
+#EXTINF:-1 xui-id="626685" tvg-id="" tvg-name="MX ®| WWB BASEBALL HD" tvg-logo="https://i.ibb.co/Mx6RnFsF/5.png" group-title="DEPORTES ⏯️ | PREMIUM",MX | WWB BASEBALL HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaUtpaclpU9eL_xH-zwcyEPaR_ooTXHHiymK_LNH-kmJ/m3u8
+#EXTINF:-1 xui-id="418320" tvg-id="EVENT3" tvg-name="SUR ®| MAX SPORTS + HD" tvg-logo="https://i.ibb.co/W4fmPB0q/Directv-sur.jpg" group-title="DEPORTES ⏯️ | PREMIUM",SUR | MAX SPORTS + HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkU-rpqprZONwlGBKccPdpxwRmESwd06VBJzopNsY6pLR/m3u8
+#EXTINF:-1 xui-id="418319" tvg-id="EVENT2" tvg-name="SUR ®| MAX SPORTS 2 HD" tvg-logo="https://i.ibb.co/Dfw19DqD/Directv-sur-2.jpg" group-title="DEPORTES ⏯️ | PREMIUM",SUR | MAX SPORTS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkU4xSTH-78MtNSeWYVK3JfOFdBX_VV1xYtWnjPTmQ9AT/m3u8
+#EXTINF:-1 xui-id="418318" tvg-id="EVENT1" tvg-name="SUR ®| MAX SPORTS HD" tvg-logo="https://i.ibb.co/zW4H7KJq/Directv-sur.jpg" group-title="DEPORTES ⏯️ | PREMIUM",SUR | MAX SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkU4xSTH-78MtNSeWYVK3JfNf3kaCklPdue09S9ejtAht/m3u8
+#EXTINF:-1 xui-id="450924" tvg-id="FSALA" tvg-name="USA ®| FOX DEPORTES HD" tvg-logo="https://i.ibb.co/hHY9fqY/FOX-DEPORTES.jpg" group-title="DEPORTES ⏯️ | PREMIUM",USA | FOX DEPORTES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWpmmG_bzNdywKtresP6epYQh10RodZiflkp-wec8Qe0/m3u8
+#EXTINF:-1 xui-id="497868" tvg-id="beinsportespanol.us" tvg-name="USA ®| TUDN HD" tvg-logo="https://i.ibb.co/vhCxpDG/TUDN-USA.jpg" group-title="DEPORTES ⏯️ | PREMIUM",USA | TUDN HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkePALJdZzM76UH3MSepuF45zTeKW3tOpaIqJq6ZrgBVY/m3u8
+
+# --- DEPORTES  ESPN ---
+#EXTINF:-1 xui-id="332911" tvg-id="espn3.co" tvg-name="ARG ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/mJWqXkp/ESPN-ARG-2.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG | ESPN 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcJbJ18xNWiS36BF61wEtbaVCIH3-wPbZpfPX-yinjiM/m3u8
+#EXTINF:-1 xui-id="332912" tvg-id="417184" tvg-name="ARG ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/3WsbFfB/ESPN-ARG-3.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG | ESPN 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcJbJ18xNWiS36BF61wEtbY6xwqTO74wXDnlu3EiIaRB/m3u8
+#EXTINF:-1 xui-id="332913" tvg-id="espnplus.co" tvg-name="ARG ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/P6QDc0R/ESPN-ARG-4.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG | ESPN 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcJbJ18xNWiS36BF61wEtbYv_JGl3kYpR7eLmOZxI55L/m3u8
+#EXTINF:-1 xui-id="332910" tvg-id="417184" tvg-name="ARG ®| ESPN HD" tvg-logo="https://i.ibb.co/DRqmPBh/ESPN-ARG-1.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG | ESPN HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcJbJ18xNWiS36BF61wEtbadEUcn4xJfk1G45Fm7nqia/m3u8
+#EXTINF:-1 xui-id="450936" tvg-id="FOXS3A" tvg-name="ARG ®| ESPN PREMIUM FHD" tvg-logo="https://i.ibb.co/VH9Kxc7/ESPN-ARG-PREMIUM.jpg" group-title="DEPORTES ⏯️ | ESPN",ARG | ESPN PREMIUM FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbJVm__tHtue7NLFkTFO2PshdqHEYANBJ91okxKMj_xO/m3u8
+#EXTINF:-1 xui-id="469879" tvg-id="" tvg-name="BRA ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/J5VkkFK/ESPN-BRASIL-2.jpg" group-title="DEPORTES ⏯️ | ESPN",BRA | ESPN 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkejINe-hc9NCWRtyj6vbbq55WN39aiEN9DHAhjJA5TnJ/m3u8
+#EXTINF:-1 xui-id="469880" tvg-id="ESPNBRS" tvg-name="BRA ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/X87QvjZ/ESPN-BRASIL-3.jpg" group-title="DEPORTES ⏯️ | ESPN",BRA | ESPN 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhwi1qYstvU-MvsKJTy24gRp/m3u8
+#EXTINF:-1 xui-id="469881" tvg-id="ESPNBSH" tvg-name="BRA ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/VLRK3gq/ESPN-BRASIL-4.jpg" group-title="DEPORTES ⏯️ | ESPN",BRA | ESPN 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhyNXcf8NZmsoifTPVcetP3L/m3u8
+#EXTINF:-1 xui-id="469882" tvg-id="ESPNBRS" tvg-name="BRA ®| ESPN 5 HD" tvg-logo="https://i.ibb.co/JBfXKbg/ESPN-BRASIL-5.jpg" group-title="DEPORTES ⏯️ | ESPN",BRA | ESPN 5 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhzT5yZzor2FjQEwM0S5yJPM/m3u8
+#EXTINF:-1 xui-id="469883" tvg-id="espndeportes.us" tvg-name="BRA ®| ESPN 6 HD" tvg-logo="https://i.ibb.co/NttMw5H/ESPN-BRASIL-6.jpg" group-title="DEPORTES ⏯️ | ESPN",BRA | ESPN 6 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhwbX9H7OQUUA_6itE9658oP/m3u8
+#EXTINF:-1 xui-id="469878" tvg-id="ESPNMBR" tvg-name="BRA ®| ESPN HD" tvg-logo="https://i.ibb.co/9hrYDpw/ESPN-BRASIL-1.jpg" group-title="DEPORTES ⏯️ | ESPN",BRA | ESPN HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkejINe-hc9NCWRtyj6vbbq4WCIU6gZ17khS-yiO0U9K8/m3u8
+#EXTINF:-1 xui-id="456651" tvg-id="417184" tvg-name="CHI ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/hFDKfX7/ESPN-CL-2.jpg" group-title="DEPORTES ⏯️ | ESPN",CHI | ESPN 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcXksuCRS1JpC2xID1vE9iRJteXtjFXqFP5hoaSxv2if/m3u8
+#EXTINF:-1 xui-id="456652" tvg-id="417184" tvg-name="CHI ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/GHpvczX/ESPN-CL-3.jpg" group-title="DEPORTES ⏯️ | ESPN",CHI | ESPN 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcXksuCRS1JpC2xID1vE9iSY9L4idFT25KK_EFtqIsww/m3u8
+#EXTINF:-1 xui-id="456653" tvg-id="417184" tvg-name="CHI ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/jD8GDh2/ESPN-CL-4.jpg" group-title="DEPORTES ⏯️ | ESPN",CHI | ESPN 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcXksuCRS1JpC2xID1vE9iRTJ-cRLCQpb2xzb7CKqt4N/m3u8
+#EXTINF:-1 xui-id="456654" tvg-id="espnplushd.mx" tvg-name="CHI ®| ESPN 5 HD" tvg-logo="https://i.ibb.co/pXgT1Wm/ESPN-CL-5.jpg" group-title="DEPORTES ⏯️ | ESPN",CHI | ESPN 5 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcXksuCRS1JpC2xID1vE9iTvklDs4jOS8jYb0c3au6TF/m3u8
+#EXTINF:-1 xui-id="456655" tvg-id="espn7.ec" tvg-name="CHI ®| ESPN 6 HD" tvg-logo="https://i.ibb.co/GPZHHhh/ESPN-CL-6.jpg" group-title="DEPORTES ⏯️ | ESPN",CHI | ESPN 6 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcXksuCRS1JpC2xID1vE9iSO_RUN7N08rRH0E_DGsWu1/m3u8
+#EXTINF:-1 xui-id="456656" tvg-id="espnplus.co" tvg-name="CHI ®| ESPN 7 HD" tvg-logo="https://i.ibb.co/sCrfTbq/ESPN-PREMIUM-CL.jpg" group-title="DEPORTES ⏯️ | ESPN",CHI | ESPN 7 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcXksuCRS1JpC2xID1vE9iT8j2nuQgksxLnNYd092a4u/m3u8
+#EXTINF:-1 xui-id="450947" tvg-id="417184" tvg-name="CHI ®| ESPN HD" tvg-logo="https://i.ibb.co/84Qqtks/ESPN-CL-1.jpg" group-title="DEPORTES ⏯️ | ESPN",CHI | ESPN HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkW0k-D8u7_YPzUzE1dWb9gnW7AFhB-DZv9hF9mWVauBU/m3u8
+#EXTINF:-1 xui-id="469877" tvg-id="ESPNBRS" tvg-name="CHI ®| ESPN PREMIUM HD" tvg-logo="https://i.ibb.co/sCrfTbq/ESPN-PREMIUM-CL.jpg" group-title="DEPORTES ⏯️ | ESPN",CHI | ESPN PREMIUM HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkejINe-hc9NCWRtyj6vbbq7RMIx3I5qaqQUGYs4ZSyhc/m3u8
+#EXTINF:-1 xui-id="450938" tvg-id="espn2.co" tvg-name="COL ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/xh6PTcT/ESPN-COL-2.jpg" group-title="DEPORTES ⏯️ | ESPN",COL | ESPN 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbJVm__tHtue7NLFkTFO2Pv-MRYLpCzBzZDlkjxjg5Zz/m3u8
+#EXTINF:-1 xui-id="450939" tvg-id="espn3.co" tvg-name="COL ®| ESPN 3 HD" tvg-logo="https://i.ibb.co/jkV73my/ESPN-COL-3.jpg" group-title="DEPORTES ⏯️ | ESPN",COL | ESPN 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbJVm__tHtue7NLFkTFO2PuyrQDPbcUZP_DhRJv8tbEI/m3u8
+#EXTINF:-1 xui-id="450941" tvg-id="espnplus.co" tvg-name="COL ®| ESPN 4 HD" tvg-logo="https://i.ibb.co/BNWvVyN/ESPN-COL-4.jpg" group-title="DEPORTES ⏯️ | ESPN",COL | ESPN 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkW0k-D8u7_YPzUzE1dWb9gmk1HbBnLcjSO__P_zp62Bz/m3u8
+#EXTINF:-1 xui-id="450942" tvg-id="espnlatin.mx" tvg-name="COL ®| ESPN 5 HD" tvg-logo="https://i.ibb.co/M1Z58mX/ESPN-COL-5.jpg" group-title="DEPORTES ⏯️ | ESPN",COL | ESPN 5 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkW0k-D8u7_YPzUzE1dWb9gkoEuLsR0Gb_7Ngpk9nes1i/m3u8
+#EXTINF:-1 xui-id="450944" tvg-id="FOXS2HA" tvg-name="COL ®| ESPN 6 HD" tvg-logo="https://i.ibb.co/ZJsr1Vb/ESPN-COL-6.jpg" group-title="DEPORTES ⏯️ | ESPN",COL | ESPN 6 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkW0k-D8u7_YPzUzE1dWb9gnYHt5MeW0usEBSSN3O0C5u/m3u8
+#EXTINF:-1 xui-id="450945" tvg-id="espn7.ec" tvg-name="COL ®| ESPN 7 HD" tvg-logo="https://i.ibb.co/2ZFLXHJ/ESPN-COL-7.jpg" group-title="DEPORTES ⏯️ | ESPN",COL | ESPN 7 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkW0k-D8u7_YPzUzE1dWb9gluKGP7sQ9aOJ-mP-pJ-2GW/m3u8
+#EXTINF:-1 xui-id="450937" tvg-id="espn.co" tvg-name="COL ®| ESPN HD" tvg-logo="https://i.ibb.co/16TPyd4/ESPN-COL-1.jpg" group-title="DEPORTES ⏯️ | ESPN",COL | ESPN HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkbJVm__tHtue7NLFkTFO2PvNNh3PZsM6db8olfb9b8HO/m3u8
+#EXTINF:-1 xui-id="332872" tvg-id="espn2.co" tvg-name="LAT ®| ESPN 2 FHD" tvg-logo="https://i.ibb.co/8dFyL0J/ESPN-LATINO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT | ESPN 2 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akd2DP3hXw87qSTE5-l35Eu6Q70ROYiX3MX-Egl7dzI6w/m3u8
+#EXTINF:-1 xui-id="332874" tvg-id="espn3.co" tvg-name="LAT ®| ESPN 3 FHD" tvg-logo="https://i.ibb.co/z8gjwYG/ESPN-LATINO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT | ESPN 3 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akd2DP3hXw87qSTE5-l35Eu69W1KnOy8tB1xWxyN4dw3s/m3u8
+#EXTINF:-1 xui-id="332877" tvg-id="417184" tvg-name="LAT ®| ESPN 4 FHD" tvg-logo="https://i.ibb.co/pfRcVsC/ESPN-LATINO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT | ESPN 4 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akd2DP3hXw87qSTE5-l35Eu74Vt-NaWdEkbOrUY29Eomk/m3u8
+#EXTINF:-1 xui-id="332879" tvg-id="417184" tvg-name="LAT ®| ESPN 5 FHD" tvg-logo="https://i.ibb.co/Tg2F1QS/ESPN-LATINO-5.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT | ESPN 5 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akd2DP3hXw87qSTE5-l35Eu6jgMSuT5K56No7R_zaSHPH/m3u8
+#EXTINF:-1 xui-id="332884" tvg-id="espnplus.co" tvg-name="LAT ®| ESPN 6 FHD" tvg-logo="https://i.ibb.co/7KkDcMz/ESPN-LATINO-6.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT | ESPN 6 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkYYqtHvx1qJXuSQR5aurtuIm3iSbQKzdttDqqo5oSk1i/m3u8
+#EXTINF:-1 xui-id="332886" tvg-id="espn7.ec" tvg-name="LAT ®| ESPN 7 FHD" tvg-logo="https://i.ibb.co/n3rk8TW/ESPN-LATINO-07.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT | ESPN 7 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkYYqtHvx1qJXuSQR5aurtuJM4B2D9aNkZcxvMRWNB-bl/m3u8
+#EXTINF:-1 xui-id="332870" tvg-id="espnlatin.mx" tvg-name="LAT ®| ESPN FHD" tvg-logo="https://i.ibb.co/VQ6YC6R/ESPN-LATINO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",LAT | ESPN FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akd2DP3hXw87qSTE5-l35Eu5I2aThoHkZNQmALmcQ9X1E/m3u8
+#EXTINF:-1 xui-id="332893" tvg-id="espn2.mx" tvg-name="MX ®| ESPN 2 FHD" tvg-logo="https://i.ibb.co/0rCBRw0/ESPN-MEXICO-2.jpg" group-title="DEPORTES ⏯️ | ESPN",MX | ESPN 2 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeEq62MTlLkZSblVE_zs8gAWqHO4GjAX0-MhZe_Jo1Lw/m3u8
+#EXTINF:-1 xui-id="332895" tvg-id="espn3.mx" tvg-name="MX ®| ESPN 3 FHD" tvg-logo="https://i.ibb.co/d0qp4vW/ESPN-MEXICO-3.jpg" group-title="DEPORTES ⏯️ | ESPN",MX | ESPN 3 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeEq62MTlLkZSblVE_zs8gDreOiEOnYFtYIBB4etgie8/m3u8
+#EXTINF:-1 xui-id="332897" tvg-id="ESPNLH2" tvg-name="MX ®| ESPN 4 FHD" tvg-logo="https://i.ibb.co/R9QkmfF/ESPN-MEXICO-4.jpg" group-title="DEPORTES ⏯️ | ESPN",MX | ESPN 4 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeEq62MTlLkZSblVE_zs8gDFZyukr6CP2zqC0o7PH_kn/m3u8
+#EXTINF:-1 xui-id="332899" tvg-id="417184" tvg-name="MX ®| ESPN 5 FHD" tvg-logo="https://i.ibb.co/027xjVq/ESPN-MEXICO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",MX | ESPN 5 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeEq62MTlLkZSblVE_zs8gADCKonzim5khLonoWv9qmc/m3u8
+#EXTINF:-1 xui-id="332901" tvg-id="espn2.co" tvg-name="MX ®| ESPN 6 FHD" tvg-logo="https://i.ibb.co/027xjVq/ESPN-MEXICO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",MX | ESPN 6 FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZ5B8msQeDtJuSMe5vSWlBh3A8dGdA9v9mDg53Beg_4o/m3u8
+#EXTINF:-1 xui-id="332891" tvg-id="espn.mx" tvg-name="MX ®| ESPN FHD" tvg-logo="https://i.ibb.co/027xjVq/ESPN-MEXICO-1.jpg" group-title="DEPORTES ⏯️ | ESPN",MX | ESPN FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeEq62MTlLkZSblVE_zs8gCLKGjz7uZW7mWjkmBL0GFg/m3u8
+#EXTINF:-1 xui-id="469891" tvg-id="espncollegeextra1.us" tvg-name="USA ®| ESPN + EVENT 01 HD" tvg-logo="https://i.ibb.co/GdJJTRY/ESPN.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN + EVENT 01 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZdXqugWMXD5AO7SGabm-JUuhsifnv4LlooQkaw5MDsB/m3u8
+#EXTINF:-1 xui-id="469892" tvg-id="espncollegeextra2.us" tvg-name="USA ®| ESPN + EVENT 02 HD" tvg-logo="https://i.ibb.co/GdJJTRY/ESPN.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN + EVENT 02 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZdXqugWMXD5AO7SGabm-JWrRWUxtjkpVPNu7BfYtcSQ/m3u8
+#EXTINF:-1 xui-id="469893" tvg-id="espncollegeextra3.us" tvg-name="USA ®| ESPN + EVENT 03 HD" tvg-logo="https://i.ibb.co/GdJJTRY/ESPN.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN + EVENT 03 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZdXqugWMXD5AO7SGabm-JUTLKKoLk6TQuhTBTe1w_g9/m3u8
+#EXTINF:-1 xui-id="469894" tvg-id="espnplus.mx" tvg-name="USA ®| ESPN + EVENT 04 HD" tvg-logo="https://i.ibb.co/GdJJTRY/ESPN.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN + EVENT 04 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZdXqugWMXD5AO7SGabm-JVUNIhgVM1O40ulp0gNj5Uw/m3u8
+#EXTINF:-1 xui-id="469887" tvg-id="espn2.us" tvg-name="USA ®| ESPN 2 HD" tvg-logo="https://i.ibb.co/59G3dXB/ESPN-USA-2.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhy-_f5dh69k00XSpmOkYOOe/m3u8
+#EXTINF:-1 xui-id="469885" tvg-id="espn.us" tvg-name="USA ®| ESPN DEPORTES FHD" tvg-logo="https://i.ibb.co/G39XMX9/ESPN-DEPORTES-USA.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN DEPORTES FHD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhwu4kQrwkCkdDk7-JbwxCMf/m3u8
+#EXTINF:-1 xui-id="469890" tvg-id="espnnews.us" tvg-name="USA ®| ESPN DIGITAL HD" tvg-logo="https://i.ibb.co/0hrBSNN/ESPN-NEWA-USA.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN DIGITAL HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZdXqugWMXD5AO7SGabm-JUF5yzQ0U6Q8MKNZK2-nBL1/m3u8
+#EXTINF:-1 xui-id="469886" tvg-id="espn.us" tvg-name="USA ®| ESPN HD" tvg-logo="https://i.ibb.co/CnP3bqx/ESPN-USA-1.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhwmW6tS0p7GMIY1H-2tsfxT/m3u8
+#EXTINF:-1 xui-id="469889" tvg-id="espnnews.us" tvg-name="USA ®| ESPN NEWS HD" tvg-logo="https://i.ibb.co/0hrBSNN/ESPN-NEWA-USA.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN NEWS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhw-iN7O_N2u6-5I_S6NWlpr/m3u8
+#EXTINF:-1 xui-id="469888" tvg-id="espn2.us" tvg-name="USA ®| ESPN U HD" tvg-logo="https://i.ibb.co/59G3dXB/ESPN-USA-2.jpg" group-title="DEPORTES ⏯️ | ESPN",USA | ESPN U HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUt4_Vj3ZMmVsxNYmwyZMhz8gfnwcjCn4i2Xa3SnXXi-/m3u8
+
+# --- CANADA ---
+#EXTINF:-1 xui-id="626677" tvg-id="" tvg-name="CANADA ®| BEIN SPORTS HD" tvg-logo="https://i.ibb.co/PQFMLzN/BEIN-SPORTS.jpg" group-title="CANADA ⏯️ | PREMIUM",CANADA | BEIN SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkagqhDevpyekpwzMIB2ILKYs-Bdd7FZbyTH5nZ2rCKSG/m3u8
+#EXTINF:-1 xui-id="626676" tvg-id="" tvg-name="CANADA ®| GOLF HD" tvg-logo="https://i.ibb.co/0ndWZt6/GOLF-LATIN.jpg" group-title="CANADA ⏯️ | PREMIUM",CANADA | GOLF HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkagqhDevpyekpwzMIB2ILKa8EtiF9bZ34YGb33yEGaKG/m3u8
+#EXTINF:-1 xui-id="626678" tvg-id="" tvg-name="CANADA ®| NBA CANADA HD" tvg-logo="https://i.ibb.co/XxJyQttq/NBA-TV-CANADA.jpg" group-title="CANADA ⏯️ | PREMIUM",CANADA | NBA CANADA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkagqhDevpyekpwzMIB2ILKbXcBThpPnjiARPUG1u5E8e/m3u8
+#EXTINF:-1 xui-id="626675" tvg-id="" tvg-name="CANADA ®| SPORTSNET 360 HD" tvg-logo="https://i.ibb.co/27LRpVnW/SPORTS-360.jpg" group-title="CANADA ⏯️ | PREMIUM",CANADA | SPORTSNET 360 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkagqhDevpyekpwzMIB2ILKYSipNqug-0j8imsT-sk5Wr/m3u8
+#EXTINF:-1 xui-id="626674" tvg-id="" tvg-name="CANADA ®| SPORTSNET EAST HD" tvg-logo="https://i.ibb.co/chPGqvRV/SPORTSNET.jpg" group-title="CANADA ⏯️ | PREMIUM",CANADA | SPORTSNET EAST HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkagqhDevpyekpwzMIB2ILKa0C4ze04lgxP3E0pUcb31H/m3u8
+
+# --- DEPORTES  USA ---
+#EXTINF:-1 xui-id="590124" tvg-id="ATTLVHD" tvg-name="USA ®| AT&T HD" tvg-logo="https://i.ibb.co/GtVGCmY/AT-T.jpg" group-title="DEPORTES ⏯️ | USA",USA | AT&T HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRZfObFaIiUI_8RFxb6CKcDr9GsrmfZIEZNwRvDyxzWf/m3u8
+#EXTINF:-1 xui-id="590169" tvg-id="ballysportscarolinas.us" tvg-name="USA ®| BALLY SPORTS CAROLINA HD" tvg-logo="https://i.ibb.co/92hbhn3/BALLY-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | BALLY SPORTS CAROLINA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF55ohEX_rQsYr-VnwyaV0g9/m3u8
+#EXTINF:-1 xui-id="590170" tvg-id="ballysportsindiana.us" tvg-name="USA ®| BALLY SPORTS INDIANA HD" tvg-logo="https://i.ibb.co/92hbhn3/BALLY-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | BALLY SPORTS INDIANA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akc8X-tpT1uDVJ9vCj_SrowWWqJ8ONzvZQlofNBRvDcHE/m3u8
+#EXTINF:-1 xui-id="590171" tvg-id="ballysportsflorida.us" tvg-name="USA ®| BALLY SPORTS NEW FLORIDA HD" tvg-logo="https://i.ibb.co/92hbhn3/BALLY-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | BALLY SPORTS NEW FLORIDA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akc8X-tpT1uDVJ9vCj_SrowVXw4jHayyNMI7i7A_EMLqp/m3u8
+#EXTINF:-1 xui-id="590172" tvg-id="ballysportsnorth.us" tvg-name="USA ®| BALLY SPORTS NORTH HD" tvg-logo="https://i.ibb.co/92hbhn3/BALLY-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | BALLY SPORTS NORTH HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akc8X-tpT1uDVJ9vCj_SrowVLtuo3FzKvtEhYOVQ0bIog/m3u8
+#EXTINF:-1 xui-id="590173" tvg-id="ballysportsoklahoma.us" tvg-name="USA ®| BALLY SPORTS OKLAHOMA HD" tvg-logo="https://i.ibb.co/92hbhn3/BALLY-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | BALLY SPORTS OKLAHOMA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akc8X-tpT1uDVJ9vCj_SrowXbCLNj-dZV74-zHB7pDnSH/m3u8
+#EXTINF:-1 xui-id="590174" tvg-id="ballysportssandiego.us" tvg-name="USA ®| BALLY SPORTS SAN DIEGO HD" tvg-logo="https://i.ibb.co/92hbhn3/BALLY-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | BALLY SPORTS SAN DIEGO HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akc8X-tpT1uDVJ9vCj_SrowWG0QN9a2zbezWcK70rOFdj/m3u8
+#EXTINF:-1 xui-id="590139" tvg-id="beinsports.us" tvg-name="USA ®| BEIN SPORTS HD" tvg-logo="https://i.ibb.co/PQFMLzN/BEIN-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | BEIN SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEf6dL6WlfTFq8HgOHeKiU_7/m3u8
+#EXTINF:-1 xui-id="590140" tvg-id="beinsportsxtran.us" tvg-name="USA ®| BEIN SPORTS XTRA HD" tvg-logo="https://i.ibb.co/PQFMLzN/BEIN-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | BEIN SPORTS XTRA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkawH-Q4ldwx0hGDu5t_kGi3NNXYeY4OtZajoFLw3rtq3/m3u8
+#EXTINF:-1 xui-id="590133" tvg-id="tennischannel.us" tvg-name="USA ®| BIG NETWORK HD" tvg-logo="https://i.ibb.co/cKwSB3mC/Big-Network.jpg" group-title="DEPORTES ⏯️ | USA",USA | BIG NETWORK HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEdK53evfK74Xp-M3QMxrvOf/m3u8
+#EXTINF:-1 xui-id="590134" tvg-id="tennischannel.us" tvg-name="USA ®| CBS SPORTS  NETWORK HD" tvg-logo="https://i.ibb.co/61xp12P/CBS-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | CBS SPORTS NETWORK HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEfL8HWOajoGOMFGlLjNd_p5/m3u8
+#EXTINF:-1 xui-id="590135" tvg-id="CBSSPHQ" tvg-name="USA ®| DAZN COMBAT HD" tvg-logo="https://i.ibb.co/xMSTqBw/DANZ-ESPA-A.jpg" group-title="DEPORTES ⏯️ | USA",USA | DAZN COMBAT HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEcjkzznhpWD98aGLJues1ML/m3u8
+#EXTINF:-1 xui-id="590136" tvg-id="CBSSN" tvg-name="USA ®| DAZN RINGSIDE HD" tvg-logo="https://i.ibb.co/xMSTqBw/DANZ-ESPA-A.jpg" group-title="DEPORTES ⏯️ | USA",USA | DAZN RINGSIDE HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEfNSNJa0XLzwRYJX0wUPOws/m3u8
+#EXTINF:-1 xui-id="590151" tvg-id="espn.us" tvg-name="USA ®| ESPN ACC HD" tvg-logo="https://i.ibb.co/CnP3bqx/ESPN-USA-1.jpg" group-title="DEPORTES ⏯️ | USA",USA | ESPN ACC HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXl31EknP1l9zrYrQd6suha7qtk5G9jNShbtNRQRXauM/m3u8
+#EXTINF:-1 xui-id="590165" tvg-id="PAC12MT" tvg-name="USA ®| FANDUEL EXTRA HD" tvg-logo="https://i.ibb.co/k2MtkR5G/Fanduel.jpg" group-title="DEPORTES ⏯️ | USA",USA | FANDUEL EXTRA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF4n8Sx-Mvfm8dRvQJoTSqm4/m3u8
+#EXTINF:-1 xui-id="590163" tvg-id="PAC12WA" tvg-name="USA ®| FANDUEL HD" tvg-logo="https://i.ibb.co/k2MtkR5G/Fanduel.jpg" group-title="DEPORTES ⏯️ | USA",USA | FANDUEL HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF6b7J7rFT51wx74yWEAU5E7/m3u8
+#EXTINF:-1 xui-id="590164" tvg-id="PAC12OR" tvg-name="USA ®| FANDUEL NETWORK HD" tvg-logo="https://i.ibb.co/k2MtkR5G/Fanduel.jpg" group-title="DEPORTES ⏯️ | USA",USA | FANDUEL NETWORK HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF5NTNMHk7KH0MX1IJU89wwd/m3u8
+#EXTINF:-1 xui-id="590146" tvg-id="FOXCDT" tvg-name="USA ®| FOX RACING HD" tvg-logo="https://i.ibb.co/tLsNz0Q/FOX-RACIN.jpg" group-title="DEPORTES ⏯️ | USA",USA | FOX RACING HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkawH-Q4ldwx0hGDu5t_kGi0Tc7CZTBPbja8YfRPBAZgy/m3u8
+#EXTINF:-1 xui-id="590144" tvg-id="foxsoccerplus.us" tvg-name="USA ®| FOX SOCCER + HD" tvg-logo="https://i.ibb.co/cJf6t95/FOX-SOCCER.jpg" group-title="DEPORTES ⏯️ | USA",USA | FOX SOCCER + HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkawH-Q4ldwx0hGDu5t_kGi2eWM9G6H3siI-U0-YwIPqM/m3u8
+#EXTINF:-1 xui-id="590142" tvg-id="FS2" tvg-name="USA ®| FS 1 HD" tvg-logo="https://i.ibb.co/54K57Cb/FS1-NASCAR.jpg" group-title="DEPORTES ⏯️ | USA",USA | FS 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkawH-Q4ldwx0hGDu5t_kGi03j5HM5c_8ChXWrmur0JoN/m3u8
+#EXTINF:-1 xui-id="590143" tvg-id="FSDIRA" tvg-name="USA ®| FS 2 HD" tvg-logo="https://i.ibb.co/2cSQHXj/FS-2.jpg" group-title="DEPORTES ⏯️ | USA",USA | FS 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkawH-Q4ldwx0hGDu5t_kGi10tp_d1OO9dr7jFoGaliNY/m3u8
+#EXTINF:-1 xui-id="590145" tvg-id="FSOTBO" tvg-name="USA ®| FS PLUS HD" tvg-logo="https://i.ibb.co/yg0mrP5/FOX-SOCCER-PLUS.jpg" group-title="DEPORTES ⏯️ | USA",USA | FS PLUS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkawH-Q4ldwx0hGDu5t_kGi1MsCtaDacP3DHAUTM2sslx/m3u8
+#EXTINF:-1 xui-id="590125" tvg-id="FUBOSN" tvg-name="USA ®| FUBO SPORTS HD" tvg-logo="https://i.ibb.co/2jVTS4f/FUBO-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | FUBO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRZfObFaIiUI_8RFxb6CKcDvTsEu64ocojIQnPF9heG5/m3u8
+#EXTINF:-1 xui-id="502994" tvg-id="teleamazonas.ec" tvg-name="USA ®| GOLF HD" tvg-logo="https://i.ibb.co/0ndWZt6/GOLF-LATIN.jpg" group-title="DEPORTES ⏯️ | USA",USA | GOLF HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXlEovfZF9gKACT3d1HPbiodSbTzwjP7JhAz0cti5bWf/m3u8
+#EXTINF:-1 xui-id="590132" tvg-id="bigtenoverflow1.us" tvg-name="USA ®| MSG NETWORK HD" tvg-logo="https://i.ibb.co/ygFWy46/MSG-SPORTSNET.jpg" group-title="DEPORTES ⏯️ | USA",USA | MSG NETWORK HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEfFGo4uzYtA7CGGcJ9sdtwA/m3u8
+#EXTINF:-1 xui-id="590154" tvg-id="NBCSBA" tvg-name="USA ®| NBC SPORTS BAY AREA HD" tvg-logo="https://i.ibb.co/qBwjJpz/NBC-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | NBC SPORTS BAY AREA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXl31EknP1l9zrYrQd6suhZmzFK9T0JZt8-rvhR5f277/m3u8
+#EXTINF:-1 xui-id="590156" tvg-id="nbc10wbts.us" tvg-name="USA ®| NBC SPORTS BOSTON HD" tvg-logo="https://i.ibb.co/qBwjJpz/NBC-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | NBC SPORTS BOSTON HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXl31EknP1l9zrYrQd6suhYWbX5iQYfmFCDHjWIZ6Jyh/m3u8
+#EXTINF:-1 xui-id="590153" tvg-id="NBCSCA" tvg-name="USA ®| NBC SPORTS CALIFORNIA HD" tvg-logo="https://i.ibb.co/qBwjJpz/NBC-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | NBC SPORTS CALIFORNIA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXl31EknP1l9zrYrQd6suhZz4ybHGjVOx5ZS-aW_sBZr/m3u8
+#EXTINF:-1 xui-id="590155" tvg-id="nbc24knvn.us" tvg-name="USA ®| NBC SPORTS CHICAGO HD" tvg-logo="https://i.ibb.co/qBwjJpz/NBC-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | NBC SPORTS CHICAGO HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXl31EknP1l9zrYrQd6suhbaAGhfF81CfWosSeqszFHU/m3u8
+#EXTINF:-1 xui-id="590157" tvg-id="nbc10wcau.us" tvg-name="USA ®| NBC SPORTS PHILADELPHIA HD" tvg-logo="https://i.ibb.co/qBwjJpz/NBC-SPORTS.jpg" group-title="DEPORTES ⏯️ | USA",USA | NBC SPORTS PHILADELPHIA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXl31EknP1l9zrYrQd6suhbo9_3AJQQUF8b0-lNxJO5n/m3u8
+#EXTINF:-1 xui-id="590168" tvg-id="PAC12" tvg-name="USA ®| PAC12  INSIDER EAST HD" tvg-logo="https://i.ibb.co/bgdRvGf/PAC-12.jpg" group-title="DEPORTES ⏯️ | USA",USA | PAC12 INSIDER EAST HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF6jjsGYbp9dIBFaicrvfJaY/m3u8
+#EXTINF:-1 xui-id="590166" tvg-id="PAC12LA" tvg-name="USA ®| PAC12  INSIDER HD" tvg-logo="https://i.ibb.co/bgdRvGf/PAC-12.jpg" group-title="DEPORTES ⏯️ | USA",USA | PAC12 INSIDER HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF6MTcXbRP1Alwj3g6yOtAYu/m3u8
+#EXTINF:-1 xui-id="590167" tvg-id="PAC12BA" tvg-name="USA ®| PAC12 LOS ANGELES HD" tvg-logo="https://i.ibb.co/bgdRvGf/PAC-12.jpg" group-title="DEPORTES ⏯️ | USA",USA | PAC12 LOS ANGELES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF4naT8k42jKyXx5BFAlne9Q/m3u8
+#EXTINF:-1 xui-id="590128" tvg-id="" tvg-name="USA ®| RALLY TV HD" tvg-logo="https://i.ibb.co/B4FPZR2/Rally-TV.jpg" group-title="DEPORTES ⏯️ | USA",USA | RALLY TV HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRZfObFaIiUI_8RFxb6CKcA3YnSrz04CM1abcqdiyMiV/m3u8
+#EXTINF:-1 xui-id="590130" tvg-id="sportsnetnewyork.us" tvg-name="USA ®| SPORTSNET NEW YORK HD" tvg-logo="https://i.ibb.co/w1DYQDF/SPORTSNET-NEW-YORD.jpg" group-title="DEPORTES ⏯️ | USA",USA | SPORTSNET NEW YORK HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEeSnaUxSsthz5KgwO9uTe7V/m3u8
+#EXTINF:-1 xui-id="590122" tvg-id="spectrumsportsnet.us" tvg-name="USA ®| STADIUM HD" tvg-logo="https://i.ibb.co/MSy1cWH/STADIUM.jpg" group-title="DEPORTES ⏯️ | USA",USA | STADIUM HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRZfObFaIiUI_8RFxb6CKcC5n8fNMel6JV2DsAnaV_Se/m3u8
+#EXTINF:-1 xui-id="590138" tvg-id="msg2.us" tvg-name="USA ®| TENNIS HD" tvg-logo="https://i.ibb.co/D5n6C2c/TENNIS-CHANNEL.jpg" group-title="DEPORTES ⏯️ | USA",USA | TENNIS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEd8TedRGLmolS-pyaT5ON97/m3u8
+#EXTINF:-1 xui-id="590137" tvg-id="msg.us" tvg-name="USA ®| TENNIS LIVE HD" tvg-logo="https://i.ibb.co/D5n6C2c/TENNIS-CHANNEL.jpg" group-title="DEPORTES ⏯️ | USA",USA | TENNIS LIVE HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEccSChfpZiu8GWuWJnd_7GU/m3u8
+#EXTINF:-1 xui-id="590158" tvg-id="TSN1MEL" tvg-name="USA ®| TSN 1 HD" tvg-logo="https://i.ibb.co/dbtmrxR/TSN-1.jpg" group-title="DEPORTES ⏯️ | USA",USA | TSN 1 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXl31EknP1l9zrYrQd6suhbdbQjJU5u6MAdl97JOe29E/m3u8
+#EXTINF:-1 xui-id="590159" tvg-id="TSN2MEL" tvg-name="USA ®| TSN 2 HD" tvg-logo="https://i.ibb.co/PWGPhc5/TSN-2.jpg" group-title="DEPORTES ⏯️ | USA",USA | TSN 2 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXl31EknP1l9zrYrQd6suhbQI5LNk4uIr4Sw8u_ONYtR/m3u8
+#EXTINF:-1 xui-id="590160" tvg-id="TSN3BO" tvg-name="USA ®| TSN 3 HD" tvg-logo="https://i.ibb.co/126xGrR/TSN-3.jpg" group-title="DEPORTES ⏯️ | USA",USA | TSN 3 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF4-WAWzNgAGMKji2jvWh3im/m3u8
+#EXTINF:-1 xui-id="590161" tvg-id="TSN4KR" tvg-name="USA ®| TSN 4 HD" tvg-logo="https://i.ibb.co/kxjDp6g/TSN-4.jpg" group-title="DEPORTES ⏯️ | USA",USA | TSN 4 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF7FeSlck_wQDHAVey05hutG/m3u8
+#EXTINF:-1 xui-id="590162" tvg-id="TSN5MEL" tvg-name="USA ®| TSN 5 HD" tvg-logo="https://i.ibb.co/wNYv00H/TSN-5.jpg" group-title="DEPORTES ⏯️ | USA",USA | TSN 5 HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSizculLQOz0mp86X3xcLF7LMhQ5yIO5GqcGvPta9hJe/m3u8
+#EXTINF:-1 xui-id="590131" tvg-id="womensentertainment.us" tvg-name="USA ®| TVG HD" tvg-logo="https://i.ibb.co/d0BrF2c8/TVG.jpg" group-title="DEPORTES ⏯️ | USA",USA | TVG HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkeD5l3oqeCAUARhL60k2LEcxCovCjfiRNV5KeUm9Vg9d/m3u8
+#EXTINF:-1 xui-id="590126" tvg-id="stadium.us" tvg-name="USA ®| UFC HD" tvg-logo="https://i.ibb.co/fS5DdBM/UFC.jpg" group-title="DEPORTES ⏯️ | USA",USA | UFC HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRZfObFaIiUI_8RFxb6CKcDYwinEezZtyZasqDGgx9Mj/m3u8
+#EXTINF:-1 xui-id="502993" tvg-id="teleamazonas.ec" tvg-name="USA ®| WORLD FISHING HD" tvg-logo="https://i.ibb.co/67WQsL2k/WIRLD-FISHING-NETWORK.jpg" group-title="DEPORTES ⏯️ | USA",USA | WORLD FISHING HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkXlEovfZF9gKACT3d1HPbipgCIp9GKcCcDw5rOs_FgbM/m3u8
+#EXTINF:-1 xui-id="590127" tvg-id="WWELAT" tvg-name="USA ®| WWE NETWORK TV HD" tvg-logo="https://i.ibb.co/52K2fGR/WWW.jpg" group-title="DEPORTES ⏯️ | USA",USA | WWE NETWORK TV HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRZfObFaIiUI_8RFxb6CKcCu_Ca2bnJCU8-ZiNF8TAJ1/m3u8
+#EXTINF:-1 xui-id="590123" tvg-id="GOLFBO" tvg-name="USA ®| YES NETWORK HD" tvg-logo="https://i.ibb.co/N6Qjpht6/YES-NETWORK.jpg" group-title="DEPORTES ⏯️ | USA",USA | YES NETWORK HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRZfObFaIiUI_8RFxb6CKcDL8QUkQ6jrBjpolmQQ21Ce/m3u8
+
+# --- USA ---
+#EXTINF:-1 xui-id="599775" tvg-id="" tvg-name="USA ®| MOTORTREND HD" tvg-logo="https://i.ibb.co/vzXBjZZ/MOTOR-TREND.jpg" group-title="USA ⏯️ | PREMIUM",USA | MOTORTREND HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Ake16r7nW_1PArh9vRq-c0_2N0_odG6cuoTPxUyXDn6Ue/m3u8
+#EXTINF:-1 xui-id="599680" tvg-id="" tvg-name="USA ®| NBC SPORTS HD" tvg-logo="https://i.ibb.co/0FhsXJp/NBC.jpg" group-title="USA ⏯️ | PREMIUM",USA | NBC SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZR2Cvh6FzkyqYZZ1WWTkD9Bsp3nOwCqhzSRO_c_wUbG/m3u8
+
+# --- NBA MLB NFL NHL MLS LMP ---
+#EXTINF:-1 xui-id="623033" tvg-id="" tvg-name="LMP 1" tvg-logo="https://i.ibb.co/G4j5NQbg/7.png" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",LMP 1
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkT6CTShb2v26tCtV6IKq-6iBTAYYgjdzUbwMBLGt_RX_/m3u8
+#EXTINF:-1 xui-id="623034" tvg-id="" tvg-name="LMP 2" tvg-logo="https://i.ibb.co/G4j5NQbg/7.png" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",LMP 2
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkT6CTShb2v26tCtV6IKq-6jIlSqJ8aVB1kfjyODtbUQw/m3u8
+#EXTINF:-1 xui-id="623035" tvg-id="" tvg-name="LMP 3" tvg-logo="https://i.ibb.co/G4j5NQbg/7.png" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",LMP 3
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkT6CTShb2v26tCtV6IKq-6hCdTeD-jO5s3W-vFFoyr3O/m3u8
+#EXTINF:-1 xui-id="623036" tvg-id="" tvg-name="LMP 4" tvg-logo="https://i.ibb.co/G4j5NQbg/7.png" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",LMP 4
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkT6CTShb2v26tCtV6IKq-6indXKj498Z82p6ngrd46yA/m3u8
+#EXTINF:-1 xui-id="623037" tvg-id="" tvg-name="LMP 5" tvg-logo="https://i.ibb.co/G4j5NQbg/7.png" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",LMP 5
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkT6CTShb2v26tCtV6IKq-6iY7UJZti70r1zShLEx90Oj/m3u8
+#EXTINF:-1 xui-id="623038" tvg-id="" tvg-name="LMP 6 Sports AYM" tvg-logo="https://i.ibb.co/67t7xcTC/9.png" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",LMP 6 Sports AYM
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkT6CTShb2v26tCtV6IKq-6jqrvqNSazCh6auSAL2qo5r/m3u8
+#EXTINF:-1 xui-id="623039" tvg-id="" tvg-name="LMP 7 Sky MX" tvg-logo="https://i.ibb.co/fVjGqkP4/8.png" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",LMP 7 Sky MX
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkT6CTShb2v26tCtV6IKq-6gMnYWdaCH_Avp-Jw2zJ10r/m3u8
+#EXTINF:-1 xui-id="333478" tvg-id="mlbnetwork.us" tvg-name="MLB 02" tvg-logo="https://i.ibb.co/Jdwpx64/MLB-TV.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLB 02
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkTKoS4jbV71l8jBgG0AOm7aOF_klb4o440JCeaZysZMv/m3u8
+#EXTINF:-1 xui-id="333479" tvg-id="MLBN" tvg-name="MLB 03" tvg-logo="https://i.ibb.co/Jdwpx64/MLB-TV.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLB 03
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkTKoS4jbV71l8jBgG0AOm7ZV_dlNzoIAX5BgRUjrFFpR/m3u8
+#EXTINF:-1 xui-id="333480" tvg-id="MLBN" tvg-name="MLB 04" tvg-logo="https://i.ibb.co/Jdwpx64/MLB-TV.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLB 04
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkfoXZu9CoVunOF0M3QSn3mnZW_oEXKY2zWA3IELw_JBf/m3u8
+#EXTINF:-1 xui-id="416174" tvg-id="MLSHD" tvg-name="MLS 01" tvg-logo="https://i.ibb.co/WpbN1GV/MLS.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLS 01
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWToSfHLCQtOrFQvPz-DVfPpxkEiH_XVUetWaXZlfX2D/m3u8
+#EXTINF:-1 xui-id="416175" tvg-id="AVGHD" tvg-name="MLS 02" tvg-logo="https://i.ibb.co/WpbN1GV/MLS.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLS 02
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWToSfHLCQtOrFQvPz-DVfOMmFWi2GbeuemddcL-V_RW/m3u8
+#EXTINF:-1 xui-id="416176" tvg-id="AVGHD" tvg-name="MLS 03" tvg-logo="https://i.ibb.co/WpbN1GV/MLS.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLS 03
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWToSfHLCQtOrFQvPz-DVfN8OydkzG-Din6HpdEt1vwo/m3u8
+#EXTINF:-1 xui-id="416177" tvg-id="AVGHD" tvg-name="MLS 04" tvg-logo="https://i.ibb.co/WpbN1GV/MLS.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLS 04
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkWToSfHLCQtOrFQvPz-DVfNKNGju-SK4AFXoB1QBLY_E/m3u8
+#EXTINF:-1 xui-id="441225" tvg-id="MLSHD" tvg-name="MLS 05" tvg-logo="https://i.ibb.co/WpbN1GV/MLS.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLS 05
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akee3ley9LHWjIq7pXRNUDsiaLeo3dfkN2Nx5JX09_r1S/m3u8
+#EXTINF:-1 xui-id="565325" tvg-id="MLSHD" tvg-name="MLS 06" tvg-logo="https://i.ibb.co/WpbN1GV/MLS.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",MLS 06
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkV-LRxRB1ibPZjqkzYC0DEvpHbbdcAPiX9ktFvnVb6C_/m3u8
+#EXTINF:-1 xui-id="333489" tvg-id="nbaleaguepass3.us" tvg-name="NBA 01 (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/X7SVFfF/NBA-TV.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NBA 01 (SOLO EVENTOS)
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkfoXZu9CoVunOF0M3QSn3mnHbSEcwcFoN6G4McfPEQRH/m3u8
+#EXTINF:-1 xui-id="333490" tvg-id="fandueltv.us" tvg-name="NBA 02 (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/X7SVFfF/NBA-TV.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NBA 02 (SOLO EVENTOS)
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRzDKAS5LATVnODfShLDJEl0iNMauAjJNdLhEOxlEAsn/m3u8
+#EXTINF:-1 xui-id="333488" tvg-id="nbaleaguepass2.us" tvg-name="NBA PASS HD (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/X7SVFfF/NBA-TV.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NBA PASS HD (SOLO EVENTOS)
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkfoXZu9CoVunOF0M3QSn3mkpp9phc5mM0wrLDjSTgwTp/m3u8
+#EXTINF:-1 xui-id="333487" tvg-id="nbaleaguepass1.us" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/X7SVFfF/NBA-TV.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NBA TV HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkfoXZu9CoVunOF0M3QSn3mn-XOXPDDuggnrWZ80OySSr/m3u8
+#EXTINF:-1 xui-id="333499" tvg-id="nflnetwork.us" tvg-name="NFL 03" tvg-logo="https://i.ibb.co/WD0sXSg/NFL-NEWORK.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NFL 03
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRzDKAS5LATVnODfShLDJEkm64aSL9WIfYg8kBkG4C1_/m3u8
+#EXTINF:-1 xui-id="333500" tvg-id="nflnetwork.us" tvg-name="NFL 04" tvg-logo="https://i.ibb.co/WD0sXSg/NFL-NEWORK.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NFL 04
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUFHkqETOrEa5S-ELZL1MHPOesfTn0qcX38MfyoI8r_p/m3u8
+#EXTINF:-1 xui-id="333509" tvg-id="nhlcenterice1.us" tvg-name="NHL01" tvg-logo="https://i.ibb.co/vXSWSzh/NHL.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NHL01
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkUFHkqETOrEa5S-ELZL1MHOWF6vrFtz4cxs-mmX7LV__/m3u8
+#EXTINF:-1 xui-id="333510" tvg-id="nhlcenterice1.us" tvg-name="NHL02" tvg-logo="https://i.ibb.co/vXSWSzh/NHL.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NHL02
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRq7z-oPzvNR8w1mQWzliqObFP5IBNzPgJcPmiVCbC4B/m3u8
+#EXTINF:-1 xui-id="333511" tvg-id="nhlcenterice1.us" tvg-name="NHL03" tvg-logo="https://i.ibb.co/vXSWSzh/NHL.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NHL03
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRq7z-oPzvNR8w1mQWzliqMFysiyi2zPgmp5Be0aG6QC/m3u8
+#EXTINF:-1 xui-id="333512" tvg-id="nhlcenterice1.us" tvg-name="NHL04" tvg-logo="https://i.ibb.co/vXSWSzh/NHL.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",NHL04
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRq7z-oPzvNR8w1mQWzliqNxUlWjZ_bm_ByfHGGPMvHL/m3u8
+#EXTINF:-1 xui-id="333477" tvg-id="MLBN" tvg-name="USA ®| MLB NETWORK  HD" tvg-logo="https://i.ibb.co/Jdwpx64/MLB-TV.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",USA | MLB NETWORK HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkTKoS4jbV71l8jBgG0AOm7aAUNhDpaEG8VMt0I-QM2yP/m3u8
+#EXTINF:-1 xui-id="333498" tvg-id="nflnetwork.us" tvg-name="USA ®| NFL NETWORK  HD" tvg-logo="https://i.ibb.co/WD0sXSg/NFL-NEWORK.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",USA | NFL NETWORK HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRzDKAS5LATVnODfShLDJEkKOSJxYs5vZhcb7sGwptDp/m3u8
+#EXTINF:-1 xui-id="333497" tvg-id="nflredzone.us" tvg-name="USA ®| NFL REDZONE  HD" tvg-logo="https://i.ibb.co/WD0sXSg/NFL-NEWORK.jpg" group-title="NBA MLB NFL NHL MLS LMP ⏯️ | PREMIUM",USA | NFL REDZONE HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkRzDKAS5LATVnODfShLDJEnKoaLtDi2DRFMmF48p6wfZ/m3u8
+
+# --- EL SALVADOR ---
+#EXTINF:-1 xui-id="466044" tvg-id="TIGO" tvg-name="SV ®| CLARO SPORTS HD" tvg-logo="https://i.ibb.co/3hg8sX3/CLARO-SPORTS.jpg" group-title="EL SALVADOR ⏯️ | PREMIUM",SV | CLARO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSnENFnFV5BCZAXgLLgRfMuEmwF36xfZX928xsCz10Mz/m3u8
+#EXTINF:-1 xui-id="497951" tvg-id="" tvg-name="SV ®| TIGO SPORTS HD" tvg-logo="https://i.ibb.co/cTX0wX7/TIGO.jpg" group-title="EL SALVADOR ⏯️ | PREMIUM",SV | TIGO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkcjntI_LzjM-5UDfdJIdx8jNIunCdb9aN5iBxcuOpOwL/m3u8
+
+# --- GUATEMALA ---
+#EXTINF:-1 xui-id="604526" tvg-id="" tvg-name="GUAT ®| CLARO SPORTS HD" tvg-logo="https://i.ibb.co/CnJmgdZ/CLARO-SPORTS.jpg" group-title="GUATEMALA ⏯️ | PREMIUM",GUAT | CLARO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkX1cLKX4eoFnRm_IkYlLMds4Bgp5ngMKZPK7fT6OjbGm/m3u8
+#EXTINF:-1 xui-id="604519" tvg-id="" tvg-name="GUAT ®| MULTIVISION SPORTS HD" tvg-logo="https://i.ibb.co/JRCBjWDM/FULL-CHANNEL.jpg" group-title="GUATEMALA ⏯️ | PREMIUM",GUAT | MULTIVISION SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkS0OgLaXlWZalAL_GVUF0FDVarVZ3naEaQgO2E2YYSWt/m3u8
+
+# --- HONDURAS ---
+#EXTINF:-1 xui-id="570088" tvg-id="" tvg-name="HN ®| CLARO SPORTS HD" tvg-logo="https://i.ibb.co/3hg8sX3/CLARO-SPORTS.jpg" group-title="HONDURAS ⏯️ | PREMIUM",HN | CLARO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Ake6diYSHKxAdenm4tpyicmkUA_-8hFq3SFBzRvmfbnTn/m3u8
+#EXTINF:-1 xui-id="570084" tvg-id="" tvg-name="HN ®| DEPORTES TVC HD" tvg-logo="https://i.ibb.co/1rX55HC/DEPORTES-TVC.jpg" group-title="HONDURAS ⏯️ | PREMIUM",HN | DEPORTES TVC HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Ake6diYSHKxAdenm4tpyicmnFiDGl1brVHeOWo5toPc29/m3u8
+#EXTINF:-1 xui-id="570086" tvg-id="" tvg-name="HN ®| TIGO SPORTS HD" tvg-logo="https://i.ibb.co/WB6rxfL/TIGO-HONDURAS.jpg" group-title="HONDURAS ⏯️ | PREMIUM",HN | TIGO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Ake6diYSHKxAdenm4tpyicmlqL2CdNd_sOabNcDTC8eHO/m3u8
+#EXTINF:-1 xui-id="570083" tvg-id="" tvg-name="HN ®| TODO DEPORTES HD" tvg-logo="https://i.ibb.co/nLWDqSy/TDTV.jpg" group-title="HONDURAS ⏯️ | PREMIUM",HN | TODO DEPORTES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Ake6diYSHKxAdenm4tpyicml01-hMgf7c1K9UwqEXbFZ2/m3u8
+
+# --- NICARAGUA ---
+#EXTINF:-1 xui-id="509211" tvg-id="" tvg-name="NIC ®| NICASPORTS HD" tvg-logo="https://i.ibb.co/khvDkKv/PRENSA-LIBRE.jpg" group-title="NICARAGUA ⏯️ | PREMIUM",NIC | NICASPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akdzn6He8OgK11DI7zk0cCaQuC6oQqebFy9hxZt2J3DmR/m3u8
+
+# --- PANAMA ---
+#EXTINF:-1 xui-id="604632" tvg-id="" tvg-name="PAN ®| TIGO SPORTS HD" tvg-logo="https://i.ibb.co/WB6rxfL/TIGO-HONDURAS.jpg" group-title="PANAMA ⏯️ | PREMIUM",PAN | TIGO SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkdkxDHK3CAtrHo5i19TxT3tHSE_q5aSOGOJwX0NbdSqw/m3u8
+
+# --- ITALIA ---
+#EXTINF:-1 xui-id="628137" tvg-id="" tvg-name="IT ®| RAI SPORTS HD" tvg-logo="https://i.ibb.co/nR8wGYB/RAI-SPORTS.jpg" group-title="ITALIA ⏯️ | PREMIUM",IT | RAI SPORTS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akdkhiad9jDuoePWSRBJhkRDA1RBWEDYVWM9qvCRLSYsu/m3u8
+#EXTINF:-1 xui-id="628139" tvg-id="" tvg-name="IT ®| SPORT TV HD" tvg-logo="https://i.ibb.co/m5zjjgK9/ACI-Sport.jpg" group-title="ITALIA ⏯️ | PREMIUM",IT | SPORT TV HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akdkhiad9jDuoePWSRBJhkRC38f9jwu6_L12wZfQywkrs/m3u8
+#EXTINF:-1 xui-id="628138" tvg-id="" tvg-name="IT ®| SPORTALIA HD" tvg-logo="https://i.ibb.co/YLM5vFJ/SPORTITALIA.jpg" group-title="ITALIA ⏯️ | PREMIUM",IT | SPORTALIA HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_Akdkhiad9jDuoePWSRBJhkRDdQCPTUSJAfahhhCfxVtjk/m3u8
+#EXTINF:-1 xui-id="628140" tvg-id="" tvg-name="IT ®| l SUPER TENNIS HD" tvg-logo="https://i.ibb.co/pjJGws0H/Super-Tennis.jpg" group-title="ITALIA ⏯️ | PREMIUM",IT | l SUPER TENNIS HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZ9got6MhIxulUCd7yP0bPCI2qFx-AXYM8LfGw2izeAw/m3u8
+
+# --- PUERTO RICO ---
+#EXTINF:-1 xui-id="333032" tvg-id="WAPADT2" tvg-name="PR ®| WAPA DEPORTES HD" tvg-logo="https://i.ibb.co/DRdJmNq/WAPA-PUERTO-RICO.jpg" group-title="PUERTO RICO ⏯️ | PREMIUM",PR | WAPA DEPORTES HD
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkQOfz8ChDNbD9m54Y1xaIQcrtSEu_XNccm7d0eLziCUK/m3u8
+
+# --- LA FIESTA DEL FÚTBOL ---
+#EXTINF:-1 xui-id="651389" tvg-id="" tvg-name="MAX CLICK SPORTS  | 01" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS | 01
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkaAAJRjJlVJ_DdU20xVOA4B7846sak5tlZ1w8fsiuYW3/m3u8
+#EXTINF:-1 xui-id="651390" tvg-id="" tvg-name="MAX CLICK SPORTS  | 02" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS | 02
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSD9YhsrS7Z2LaLKP9Dtycvh64-EXS7NlPu_F3VdJsS6/m3u8
+#EXTINF:-1 xui-id="651391" tvg-id="" tvg-name="MAX CLICK SPORTS  | 03" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS | 03
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSD9YhsrS7Z2LaLKP9DtycunTXJnweI69bbiSHc6Qj6t/m3u8
+#EXTINF:-1 xui-id="651392" tvg-id="" tvg-name="MAX CLICK SPORTS  | 04" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS | 04
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSD9YhsrS7Z2LaLKP9DtyctN3i1Xr-aPg0OJ_QjeFBOv/m3u8
+#EXTINF:-1 xui-id="651393" tvg-id="" tvg-name="MAX CLICK SPORTS  | 05" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS | 05
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSD9YhsrS7Z2LaLKP9DtyctjDE4N4Bfeq-M7peMlgJU3/m3u8
+#EXTINF:-1 xui-id="651394" tvg-id="" tvg-name="MAX CLICK SPORTS  | 06" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS | 06
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSD9YhsrS7Z2LaLKP9Dtyct2TCFNkMmqptqDdAIsHMk-/m3u8
+#EXTINF:-1 xui-id="651395" tvg-id="" tvg-name="MAX CLICK SPORTS  | 07" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS | 07
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSD9YhsrS7Z2LaLKP9DtycvSyO4TSt7z0sIVuTaZWSz7/m3u8
+#EXTINF:-1 xui-id="651396" tvg-id="" tvg-name="MAX CLICK SPORTS  | 08" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS | 08
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkSD9YhsrS7Z2LaLKP9DtycujQZgBQM-pgVk2BRY5hK6x/m3u8
+
+# --- EVENTOS DE HOY ---
+#EXTINF:-1 xui-id="333457" tvg-id="EVENT1" tvg-name="EVENTO | 05 | NBA FINALS | KNICKS VS SPURS | 19H30" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOkwJOKrrbw2I5V4W7d3QaB0ksOBrioFkpA&s" group-title="EVENTOS DE HOY ⏯️ | PREMIUM",EVENTO | 05 | NBA FINALS | KNICKS VS SPURS | 19H30
+http://maxclicktv.net:8080/play/tQHTzNs1QturT_2hRa_AkZU0gAszlEugacpHS67w7hHj-9HRLDVfgKItIRBdrI2W/m3u8
